@@ -39,12 +39,12 @@ body {
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
+    padding-right: 120px //$right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
+    padding-right: 120px //$right-sidebar-width-narrow;
   }
 
   .page__inner-wrap {
@@ -108,7 +108,8 @@ body {
   p,
   li,
   dl {
-    font-size: 1em;
+    font-size: $type-size-9;
+    text-align: justify;
   }
 
   /* paragraph indents */

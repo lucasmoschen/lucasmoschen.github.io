@@ -1,12 +1,10 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching Assistance"
+    url: https://lucasmoschen.github.io/TA_sessions
+  - title: "Projects"
+    url: /projects/
+  - title: "Studies"
+    url: /studies/

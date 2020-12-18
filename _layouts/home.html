@@ -1,22 +1,32 @@
 ---
-layout: archive
+layout: single
 ---
 
-{{ content }}
+<h1>Biography</h1> 
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<p> I am an Undergraduate Student at the School of Applied Mathematics
+(EMAp), at the Getulio Vargas Foundation (FGV). </p>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.posts %}
-{% endif %}
+<p>  I started my math life thorough <a href="http://www.obmep.org.br/">(OBMEP)</a> , a national
+  math olympics. After receiving my first medal, I was introduced to a junior
+  scientific iniciation <a href="http://www.obmep.org.br/pic.htm">(PIC)</a>, focused in algebra, number theory and geometry, what
+  helped me to understand my passion for the topic. I participated in this
+  program for 4 years.  </p>
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
-<div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
-    {% include archive-single.html type=entries_layout %}
-  {% endfor %}
-</div>
+<p>This has opened several oportunities, like studying mathematics in the
+university. Specially, in 2018, I commenced to study at FGV where I am until now, in my last
+year of graduation. In the year 2019, I jointly begun to course master classes
+encouraged by the Scientific Iniciation and  Master's Program
+<a href="https://picme.obmep.org.br"> (PICME) </a>. This led me to antecipate the
+mastership in the same institution. I also participate in a Scientific
+Iniciation with Maria Soledad Aronna with study's object Optimal Control
+Theory. </p>
 
-{% include paginator.html %}
+<h1> Interests </h1>   
+
+<ul>
+  <li> Applied Mathematics </li>
+  <li> Epidemiology </li> 
+  <li> Optimal Control Theory </li>
+</ul>
+
