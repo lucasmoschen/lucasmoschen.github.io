@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+> 2020
+
 ## [A model for COVID-19 with isolation, quarantine and testing as control measures](https://arxiv.org/abs/2005.07661)
 
 This paper is about a deterministic ordinary differential model for
