@@ -101,9 +101,9 @@ author:
   location         : 
   email            : 
   links:
-    - label: "Rio de Janeiro"
-      icon: "fas fa-fw fa-map-marker-alt"
-      url: ""
+    # - label: "Rio de Janeiro"
+    #   icon: "fas fa-fw fa-map-marker-alt"
+    #   url: ""
     - label: "EMAp/FGV"
       icon: "fas fa-fw fa-school"
       url: "https://emap.fgv.br"
@@ -113,6 +113,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lucasmoschen"
+    - label: "LinkedIn"
+      icon: fab fa-fw fa-linkedin"
+      url: https://www.linkedin.com/in/lucas-machado-moschen/
+    - label: "Lattes"
+      icon: "ai fa-fw ai-lattes"
+      url: http://lattes.cnpq.br/7402950576585056
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=tzj0CYgAAAAJ&hl=en"
