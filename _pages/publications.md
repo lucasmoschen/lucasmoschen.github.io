@@ -5,8 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?hl=en&user=tzj0CYgAAAAJ)
-
 ## [A model for COVID-19 with isolation, quarantine and testing as control measures](https://arxiv.org/abs/2005.07661)
 
 This paper is about a deterministic ordinary differential model for
