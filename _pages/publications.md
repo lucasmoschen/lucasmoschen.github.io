@@ -10,7 +10,7 @@ author_profile: true
 ## [A model for COVID-19 with isolation, quarantine and testing as control measures](https://arxiv.org/abs/2005.07661)
 
 This paper is about a deterministic ordinary differential model for
-COVID-19 so as to understand no pharmaceutical control measures, as iolation,
+COVID-19 so as to understand no pharmaceutical control measures, as isolation,
 quarantine and testing.
 
 [Download paper here](https://arxiv.org/pdf/2005.07661.pdf)
