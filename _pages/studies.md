@@ -1,6 +1,8 @@
 ---
-layout: posts
-title: "Studies"
+title: Studies
+layout: collection
 permalink: /studies/
-author_profile: true
+collection: studies
+entries_layout: grid
+classes: wide
 ---
