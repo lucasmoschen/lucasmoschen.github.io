@@ -6,6 +6,7 @@ header:
   #image: /assets/images/search-engine.png
   teaser: assets/images/search-engine.png
 read_time: true
+author_profile: true
 # gallery:
 #   - url: /assets/images/unsplash-gallery-image-1.jpg
 #     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -19,7 +20,7 @@ read_time: true
 ---
 
 Implementation of a search engine for Data Structures and Algorithms
-class, implemented with Alessandra Cid and Lucas Domingues. It's our final
+class, implemented with [Alessandra Cid](https://github.com/alessandracid) and [Lucas Domingues](https://github.com/lucasresck). It's our final
 project for the subject [Data Structure and Algorithms](https://emap.fgv.br/en/discipline/graduacao-matematica-aplicada-graduacao-ciencia-de-dados/data-structures-and-algorithms). 
 
 
@@ -35,7 +36,7 @@ This is the link to the group's Github repository containing all of the [project
 In order to run the program you should download [this
 file](https://bit.ly/2WYQing) and follow the [README](https://github.com/lucasmoschen/Search-engine/blob/master/README.md).
 
-Descrition
+Description
 ---
 
 The [Wikipedia corpus](http://www.cs.upc.edu/~nlp/wikicorpus) as several

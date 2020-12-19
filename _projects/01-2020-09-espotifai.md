@@ -1,9 +1,12 @@
 ---
-title: "Espotifai"
-excerpt: "Study and implementation of some algorithms to deal with the
-         playlist continuation problem. This is our final project for 
-         Foundations of Data Science, a Mathematical Modelling Master's 
-         subject at Getulio Vargas Foundation (FGV)."
+title: "espotifai"
+excerpt: "Study of the playlist continuation problem and implementation of
+        recommendation algorithms to deal with it. Implemented with Lucas Domingues."
+header:
+  #image: /assets/images/search-engine.png
+  teaser: assets/images/espotifai.png
+read_time: true
+author_profile: true
 # gallery:
 #   - url: /assets/images/unsplash-gallery-image-1.jpg
 #     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -16,8 +19,25 @@ excerpt: "Study and implementation of some algorithms to deal with the
 #     alt: "placeholder image 3"
 ---
 
-<!-- Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
-
+<!--
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
+-->
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight. -->
+Study of the playlist continuation problem and implementation of automatic
+recommendation algorithms to deal with it. It was our final project of the
+subject [Fundamentals of Data Science](https://emap.fgv.br/en/discipline/mestrado/fundamentals-data-science).
+[Lucas Domingues](https://github.com/lucasresck) was my partner in the
+development. 
+
+Abstract 
+---
+
+This repository contains our approach to the playlist continuation problem. We
+scraped data from Spotify and Last.fm and we made an exploratory data
+analysis. We also implemented models of playlist continuation and we saw good
+results. We develop a website to expose our work.
+
+[Oficial website](https://lucasresck.github.io/espotifai/)
+---
+
+The work is well explained in the original website. 

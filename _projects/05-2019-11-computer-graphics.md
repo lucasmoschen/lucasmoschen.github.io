@@ -1,7 +1,11 @@
 ---
-title: "Book Lean"
-excerpt: "Final project for the subject Discrete Mathematics written by the
-         class."
+title: "Computer Graphics' Project"
+excerpt: "Correction with B-Cell Image Histograms obtained by Transmission
+          Electron Microscopy. "
+header:
+  #image: /assets/images/search-engine.png
+  #teaser: assets/images/search-engine.png
+read_time: true
 author_profile: true
 # gallery:
 #   - url: /assets/images/unsplash-gallery-image-1.jpg
@@ -14,7 +18,3 @@ author_profile: true
 #     image_path: assets/images/unsplash-gallery-image-3-th.jpg
 #     alt: "placeholder image 3"
 ---
-
-<!-- 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
- -->
