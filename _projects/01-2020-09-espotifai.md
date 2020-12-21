@@ -37,7 +37,7 @@ scraped data from Spotify and Last.fm and we made an exploratory data
 analysis. We also implemented models of playlist continuation and we saw good
 results. We develop a website to expose our work.
 
-[Oficial website](https://lucasresck.github.io/espotifai/)
+[Official website](https://lucasresck.github.io/espotifai/)
 ---
 
 The work is well explained in the original website. 

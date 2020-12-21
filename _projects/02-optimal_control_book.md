@@ -1,6 +1,6 @@
 ---
 title: "Optimal Control Theory"
-excerpt: "Scientific Iniciation with studies in the book of Lenhart."
+excerpt: "Scientific Initiation with studies in the book of Lenhart."
 author_profile: true
 # gallery:
 #   - url: /assets/images/unsplash-gallery-image-1.jpg
