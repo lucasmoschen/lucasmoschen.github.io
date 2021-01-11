@@ -83,7 +83,7 @@ After one calculate the Hamiltonian and the necessary conditions, it's necessary
 
 For example, in the Laboratory 8, we first define these variables 
 
-![example1](../assets/images/example-1.png)
+![example1](/assets/images/example-1.png)
 
 Because we have more than one state, we specify `n_states = 3`. We also specify the bounds. The bounds must be specified as a list of tuples for each control and `numpy.inf` is a possibility. However, the control's characterization must be written including the bounds as specified in the example. If one have a linear payoff term, it can be specified as a function: 
 
@@ -91,7 +91,7 @@ Because we have more than one state, we specify `n_states = 3`. We also specify 
 
 Observe that the parameters must be passed as a dictionary, including in the functions. At last, we define the final time and initial condition and use it in the `solve` method. 
 
-![example2](../assets/images/example-2.png)
+![example2](/assets/images/example-2.png)
 
 If one has a Bang-Bang problem, the characterization of u is given by 
 
