@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lucas' Academic Website"
+title                    : "Academic Website"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Lucas Machado Moschen"
@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Lucas Machado Moschen"
   avatar           : "/assets/images/profile.png"
-  bio              : "I am a passionate math student and a admirer of science,
+  bio              : "I am a passionate student of applied mathematics and an admirer of science,
                       with interests in Optimization, Control Theory,
                       Epidemiology, Programming and Data Science."
   location         : 
