@@ -18,7 +18,7 @@ gallery:
 
 Numerical simulations and applications of the model described in the
 publication entitled [*A model for COVID-19 with isolation, quarantine and
-testing as control measures*](https://arxiv.org/abs/2005.07661), a publication
+testing as control measures*](https://doi.org/10.1016/j.epidem.2021.100437), a publication
 that I was co-author. 
 
 In addition to the model description, the article shows, in the fourth
