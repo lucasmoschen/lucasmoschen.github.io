@@ -7,4 +7,4 @@ collection: studies
 classes: wide
 ---
 
-Here there are studies of some subjects from the faculty.
+Here are some of the subjects studied during the undergraduate and master's degrees.

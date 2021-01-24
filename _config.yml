@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Lucas Machado Moschen"
   avatar           : "/assets/images/profile.png"
-  bio              : "I am a passionate student of applied mathematics and an admirer of science,
+  bio              : "I am a passionate student of applied math and an admirer of science,
                       with interests in Optimization, Control Theory,
                       Epidemiology, Programming and Data Science."
   location         : 
@@ -104,9 +104,9 @@ author:
     # - label: "Rio de Janeiro"
     #   icon: "fas fa-fw fa-map-marker-alt"
     #   url: ""
-    - label: "EMAp/FGV"
-      icon: "fas fa-fw fa-school"
-      url: "https://emap.fgv.br"
+    # - label: "EMAp/FGV"
+    #   icon: "fas fa-fw fa-school"
+    #   url: "https://emap.fgv.br"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:lucas.moschen@fgv.edu.br"
@@ -306,7 +306,7 @@ defaults:
       type: studies
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       share: true
       read_time: true
 

@@ -1,5 +1,5 @@
 ---
-title: "Math modelling II"
+title: "Math Modelling II"
 excerpt: "Studies and homework of the Math Modelling II subject in Applied Math Course."
 read_time: true
 # gallery:

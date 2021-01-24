@@ -24,7 +24,7 @@ author_profile: true
 -->
 
 Study of the playlist continuation problem and implementation of automatic
-recommendation algorithms to deal with it. It was our final project of the
+recommendation algorithms to deal with it. It was our final project for
 subject [Fundamentals of Data Science](https://emap.fgv.br/en/discipline/mestrado/fundamentals-data-science).
 [Lucas Domingues](https://github.com/lucasresck) was my partner in the
 development. 
@@ -33,11 +33,8 @@ Abstract
 ---
 
 This repository contains our approach to the playlist continuation problem. We
-scraped data from Spotify and Last.fm and we made an exploratory data
-analysis. We also implemented models of playlist continuation and we saw good
-results. We develop a website to expose our work.
+collected data from Spotify and Last.fm and we did an exploratory data
+analysis. We also implemented playlist continuation models and we have seen good
+results. We developed a website to expose our work.
 
 [Official website](https://lucasresck.github.io/espotifai/)
----
-
-The work is well explained in the original website. 
