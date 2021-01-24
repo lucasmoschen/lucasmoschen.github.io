@@ -19,4 +19,4 @@ Each homework has a practical simulation and some theoretical questions.
 The homeworks and assignments are coded in R language and the presentations
 and texts are in portuguese. 
 
-[Repository can be found here.s](https://github.com/lucasmoschen/Time_Series)
+[Repository can be found here.](https://github.com/lucasmoschen/time-series)

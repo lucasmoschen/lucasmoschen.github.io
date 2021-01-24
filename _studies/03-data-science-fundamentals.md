@@ -16,7 +16,7 @@ course from
 Homeworks and laboratories developed in Python can be found in my repository
 and cover almost all the topics.  
 
-[Course repository](https://github.com/lucasmoschen/Data_Science_Fundamentals)
+[Course repository](https://github.com/lucasmoschen/data-science-fundamentals)
 
 Covered Topics
 ---
