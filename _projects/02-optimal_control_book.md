@@ -40,7 +40,7 @@ interpretation. A class in `optimal_control_class.py` file was designed to
 deal with all laboratories, no need to worry with the code, initially. This
 code contains the famous method in the area called forward-backward sweep.
 
-[[The repository can be found here]](https://github.com/lucasmoschen/Optimal_Control_Biological)
+[[The repository can be found here]](https://github.com/lucasmoschen/optimal-control-biological)
 
 ## Usage
 

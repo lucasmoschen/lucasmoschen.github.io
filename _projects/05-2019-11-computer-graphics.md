@@ -38,7 +38,7 @@ information about the image, such as contrast and image acquisition problems.
 Theoretical texts about the topic were read and simulations made in *javascript* were used
 to develop the website. The problem of threshold was analysed either. 
 
-[Official website](https://lucasmoschen.github.io/Computer_Graphics/)
+[Official website](https://lucasmoschen.github.io/computer-graphics/)
 ---
 
 The work is well explained in the original website (in portuguese, can be

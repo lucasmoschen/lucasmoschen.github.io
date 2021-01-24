@@ -32,7 +32,7 @@ For this project our group developed a search engine that searches for a word, o
 Repository 
 ---
 
-This is the link to the group's Github repository containing all of the [project's source code](https://github.com/lucasresck/Search-engine).
+This is the link to the group's Github repository containing all of the [project's source code](https://github.com/lucasmoschen/search-engine).
 In order to run the program you should download [this
 file](https://bit.ly/2WYQing) and follow the [README](https://github.com/lucasmoschen/Search-engine/blob/master/README.md).
 
