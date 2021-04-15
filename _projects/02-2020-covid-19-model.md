@@ -90,11 +90,23 @@ numerical simulation." %}
 The parameter $$\rho$$ indicates the proportion of the population presenting either mild or no symptoms that is tested daily. It can also be thought as the
 inverse of the mean duration that an infected person in compartments A passes without being tested.
 
-Work in progress 
+Estimation of the underreporting rate of COVID-19 cases in the city of Rio de Janeiro.
 --- 
 
-We are applying this model for the Rio de Janeiro. I wasn't allowed to turn
-the repository public yet, but the idea of this project is to make inference
-about the parameter $$\alpha$$ (under-reporting rate). This help us to
-understand the real size of the pandemic in the city and suggest an increase
-on the tests. 
+The COVID-19 disease caused by the SARS-CoV-2 virus has been spreading rapidly
+over the world since the beginning of 2020. The understanding of its dynamics
+in the population is crucial to take measures that contain the spread. In this
+report, we consider the epidemiological model SEIAQR aforementioned to
+understand the beginning of the epidemic in the city of Rio de Janeiro and, in
+particular, the underreporting rate, that is, the proportion of infected
+individuals that the system didn't register. The curves of confirmed cases and
+deaths were adjusted to the actual city data using the error-weighted least
+squares method. We use B-splines to approximate the transmissibility and
+mortality of the disease. Also, we analyze the structural and practical
+identifiability of the model to verify the feasibility of the estimates. We
+used the Bootstrap method to quantify the uncertainty about the parameter's
+estimates. In the period March-July 2020, we obtain the point estimate of 0.9
+for underreporting with a 95 % confidence interval (0.85, 0.93). 
+
+The details can be found in a portuguese report for my scientific initiation
+[here](https://github.com/lucasmoschen/covid-19-model/blob/master/notes/underreporting_estimation.pdf).
