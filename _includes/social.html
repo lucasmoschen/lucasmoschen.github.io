@@ -10,6 +10,9 @@
             {%- if site.orcid_id -%}
             <a href="https://orcid.org/{{ site.orcid_id }}" title="ORCID"><i class="ai ai-orcid"></i></a>
             {% endif %}
+            {%- if site.lattes_id -%}
+            <a href="http://lattes.cnpq.br/{{ site.lattes_id }}" title="Plataforma Lattes"><i class="ai ai-lattes"></i></a>
+            {% endif %}
             {%- if site.scholar_userid -%}
             <a href="https://scholar.google.com/citations?user={{ site.scholar_userid }}" title="Google Scholar"><i class="ai ai-google-scholar"></i></a>
             {% endif %}
