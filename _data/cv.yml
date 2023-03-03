@@ -1,97 +1,145 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+    - name: Name
+      value: Lucas Moschen
     - name: Languages
-      value: English, German
+      value: Portuguese, English, studying French
+    - name: E-mail
+      value: lucas.moschen@fgv.br
+    - name: Description
+      value: A math student and aspiring scientist with a solid math background. I am interested in Optimal Control, Differential Equations, Probability and Statistics, with applications in Biology, such as Epidemiology, Public Health and Climate modelling.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ms.C. in Mathematical Modelling
+      institution: Fundação Getulio Vargas, School of Applied Mathematics - Rio de Janeiro (Brazil)
+      year: 2022 - current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Advisor Dr Maria Aronna Soledad
+        - Academic grade A in all courses
+        - Expected conclusion in June, 2023
+    - title: Bs.C. in Applied Mathematics
+      institution: Fundação Getulio Vargas, School of Applied Mathematics- Rio de Janeiro (Brazil)
+      year: 2018 - 2021
       description:
-        - Description 1.
-        - Description 2.
+        - Advisor Dr Luiz Max Carvalho
+        - Bachelor dissertation entitled "Prevalence estimation and binary regression methods for respondent-driven sampling with outcome uncertainty" 
 
-- title: Experience
+- title: Research Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Dissertation production
+      institution: Fundação Getulio Vargas, School of Applied Mathematics
+      year: 2022 - current
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+         - The theme is Control on Complex Networks and Epidemics.
+    - title: Paper production with Dr Dante Kalise and Dr Maria Soledad Aronna
+      institution: Imperial College London, UK
+      year: 2022 - current
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+         - The theme is Control on Fokker-Planck equation.
+    - title: Paper production with professor Dr. Luiz Max Carvalho.
+      institution: Fundação Getulio Vargas, School of Applied Mathematics
+      year: 2022 - 2023
       description:
+         - The theme of the paper is on parameter inference and diagnostics for a bivariate beta distribution.
+         - This paper is under the submission process.
+    - title: Paper production with professors Dr. Maria Soledad Aronna and Dr. Roberto Guglielmi
+      institution: Fundação Getulio Vargas, School of Applied Mathematics
+      year: 2020 - 2021
+      description: 
+         - Both papers were published (see publications tab).
+    - title: Scientific Iniciation 
+      institution: Fundação Getulio Vargas, School of Applied Mathematics
+      year: 2019 - 2020
+      description:
+         - Advisor Dr Maria Soledad Aronna
+         - Theme on Optimal Control in Biological Models
+    - title: Junior Scientific Initiation Program in Mathematics
+      institution: National Institute for Pure and Applied Mathematics - Rio de Janeiro (Brazil)
+      year: 2014 - 2017
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Teaching Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Teaching Assistant 
+      institution: Fundação Getulio Vargas, School of Applied Mathematics
+      year: 2019 - current
+      description:
+        - title: Ms.C level
+          contents:
+          - Functional Analysis (2022), Statistical inference (2022), Bayesian Statistics (2022)
+        - title: Bs.C level
+          contents:
+          - Partial Differential Equations (2021, 2022), Curves and Surfaces (2021, 2022), Introduction to Numerical Analysis (2021), Statistical inference (2020), Ordinary Differential Equations (2020) and Linear Algebra (2019)
+    - title: Volunteer Algebra teacher
+      institution: Project Elos Educação - Rio de Janeiro (Brazil)
+      year: 2019
+      description:
+        - Prepare the students for high school entrance exams.
+
+- title: Relevant Knowledge
+  type: nested_list
+  contents:
+    - title: Programming languages
+      items: 
+        - Programming skills in Python, R, Julia, C++, Matlab and JavaScripts
+    - title: Additional programming skills
+      items: 
+        - Programming tools Git, Visual Studio Code and Project Jupyter
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
+        - Best poster presentation for the work on COVID-19 mathematical modelling at the Latin American Congress on Industrial and Applied Mathematics
+    - year: 2022
       items: 
-        - Max Planck Medal
+        - Scientific Initiation Award SBMAC (3rd place) for my Bachelor Dissertation 
+    - year: 2021
+      items: 
+        - Academic Excellence with the highest final grade in the Bs.C. course.
+    - year: 2013 - 2017
+      items: 
+        - Two gold, one silver and two bronze medals in the Brazilian Mathematical Olympiad of Public Schools;
 
-- title: Academic Interests
-  type: nested_list
+- title: Social Engagement
+  type: time_table
   contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+    - year: 2023
       items:
-        - Description 1.
-        - Description 2.
+        - Local committee of the Latin American Congress on Industrial and Applied Mathematics (LACIAM 2023)
+        - Representative of graduate students on the School of Applied Mathematics (FGV) Board
+    - year: 2019
+      items: 
+        - Volunteer of the project Elos Educação - Rio de Janeiro (Brazil)
+    - year: 2018 - 2019
+      items: 
+        - Vice-president of the Student Association of the School of Applied Mathematics, FGV
 
-- title: Other Interests
-  type: list
+- title: Conferences
+  type: time_table
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - year: 2023      
+      items:
+        - Poster presentation in the Latin American Congress on Industrial and Applied Mathematics organized by FGV EMAp and SBMAC (Rio de Janeiro, Brazil) entitled "Mathematical modelling of COVID-19 and analysis of Rio de Janeiro city's outbreak in 2020"
+    - year: 2022
+      items: 
+        - Poster presentation at V Mathematical Colloquium of the Southern Region entitled "Parameter estimation of a bivariate beta" (online)
+    - year: 2021
+      items: 
+        - Participant in the XL National Congress of Applied and Computational Mathematics organized by SBMAC (online)
+        - Participant in the XXXIII Brazilian Colloquium of Mathematics organized by the Institute of Applied and Pure Mathematics (online)
+    - year: 2020
+      items: 
+        - Poster presentation in the II Fluminense Meeting of Women in Biomathematics entitled "A model for COVID-19 with isolation, quarantine, and testing" (online)
+    - year: 2019
+      items: 
+        - Participant in the XXXII Brazilian Colloquium of Mathematics organized by the Institute of Applied and Pure Mathematics (Rio de Janeiro, Brazil)
+    - year: 2018
+      items: 
+        - Participant in the III Brazilian Congress of Young Researchers in Pure and Applied Mathematics and Statistics organized by the Federal University of the Parana (Curitiba, Brazil)
+

@@ -1,25 +1,34 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Master's student at <a href='https://emap.fgv.br/en'>School of Applied Mathematics (FGV)</a>. 
+          <br> Rio de Janeiro, Brazil.
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Curious and passionate mathematician</p> 
+    <p>Aspiring scientist</p>
+    <p>Star Wars fan</p>
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+As a Master's student at the School of Applied Mathematics (EMAp) at the prestigious Getulio Vargas Foundation (FGV), my passion for science and mathematics has been a driving force throughout my academic journey. Under the expert guidance of [Pr. Maria Soledad Aronna](https://sites.google.com/view/aronna/home), my dissertation project centres on the intersection of Control Theory and Complex Networks.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My journey in mathematics began when I was awarded my first medal at the [Brazilian Mathematical Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/), where I was exposed to a junior scientific initiation program (PIC) focused on algebra, number theory and geometry. My four-year participation in this program was instrumental in developing my passion for the field, igniting my curiosity, and sharpening my skills. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Thanks to the opportunities and support provided by the program, I enrolled in the Applied Math Undergraduate course at FGV in 2018. Inspired by my scientific initiation and motivated by my growing interest in mathematics, I began taking master's classes in 2019, encouraged by the [Scientific Initiation and Master's Program (PICME)](https://picme.obmep.org.br/). I presented my Bachelor's Dissertation with [Pr. Luiz Max Carvalho](https://github.com/maxbiostat) at the end of 2021 working on the prevalence estimation problem in hard-to-reach populations with imperfect diagnostic tests. The [Brazilian Society of Applied Mathematics (SBMAC)](https://www.sbmac.org.br/) recognized this research as the third-best Research Initiation Project in the country in 2022. This recognition has only fueled my drive to make further strides in the field of mathematics, and I am excited about the future possibilities that lie ahead.
+
+## Research Interests:
+
+- Biomathematics and Epidemiology
+- Optimal Control Theory
+- Network theory
+- Applied Statistics
+- Data Science
