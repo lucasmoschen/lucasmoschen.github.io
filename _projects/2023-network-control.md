@@ -4,7 +4,7 @@ title: "Epidemics in networks"
 description: "Master's dissertation with the theme at the intersection of Control
               Theory and Complex Networks."
 img: assets/img/network-control.png
-importance: 2
+importance: 1
 category: 2023
 ---
 
