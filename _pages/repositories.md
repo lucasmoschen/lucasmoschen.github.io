@@ -2,7 +2,7 @@
 layout: page
 permalink: /repositories/
 title: Repositories
-description: My GitHub account.
+description: My GitHub account with homeworks and studies which I found interesting to share.
 nav: true
 nav_order: 5
 ---
