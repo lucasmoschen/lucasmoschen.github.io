@@ -5,7 +5,7 @@ permalink: /projects/
 description: A growing collection of my projects during my Undergraduate's and Master's.
 nav: true
 nav_order: 4
-display_categories: [2023, 2022, 2021, 2020, 2019]
+display_categories: [Current, 2022, 2021, 2020, 2019]
 horizontal: false
 ---
 
