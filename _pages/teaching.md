@@ -9,8 +9,12 @@ nav_order: 3
 
 [Click here](https://lucasmoschen.github.io/ta-sessions/) to see the webpage with the classes in Portuguese!
 
+- Partial Differential Equations (Mar - Jul, 2023; Ph.D FGV/EMAp)
+    - Professor <a href="https://www.gtgoedert.com/Home"> Guilherme Tegoni Goedert</a>
+- Probability (Mar - Jul, 2023; Ms.C FGV/EMAp)
+    - Professor <a href="https://emap.fgv.br/integrante/paulo-cezar-p-carvalho">Paulo Cezar P. Carvalho</a>
 - Partial Differential Equations (Aug - Dec, 2022; FGV/EMAp)
-    - Professor <a href="https://emap.fgv.br/corpo-docente/moacyr-alvim-horta-barbosa-silva">Moacyr Alvim Horta Barbosa da Silva
+    - Professor <a href="https://emap.fgv.br/corpo-docente/moacyr-alvim-horta-barbosa-silva">Moacyr Alvim Horta Barbosa da Silva</a>
 - Functional Analysis (Jun - Sep, 2022; Ph.D FGV/EMAp)
     - Professor <a href="https://sites.google.com/view/aronna/home">Maria Soledad Aronna</a>
 - Statistical inference (Jun - Sep, 2022; M.Sc FGV/EMAp)
