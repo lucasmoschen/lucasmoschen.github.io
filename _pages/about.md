@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master's student at <a href='https://emap.fgv.br/en'>School of Applied Mathematics (FGV)</a>. 
-          <br> Rio de Janeiro, Brazil.
+subtitle: Master's student at <a href='https://www.ljll.math.upmc.fr/MathModel/enseignement/les_cours_fondamentaux_en.html'> Sorbonné University</a>. 
+          <br> Paris, France.
 
 profile:
   align: left
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-As a Master's student at the School of Applied Mathematics (EMAp) at the prestigious Getulio Vargas Foundation (FGV), my passion for science and mathematics has been a driving force throughout my academic journey. Under the expert guidance of [Pr. Maria Soledad Aronna](https://sites.google.com/view/aronna/home), my dissertation project centres on the intersection of Control Theory and Complex Networks.
+Being in my second year as a master's student at Sorbonne University, I have already successfully concluded my master's program in Brazil. My academic journey has been characterized by an unwavering passion for science and mathematics, a commitment that continues to flourish within the esteemed Sorbonne University. During my studies in Brazil, I was fortunate to have [Pr. Maria Soledad Aronna](https://sites.google.com/view/aronna/home) as my advisor. She provided invaluable guidance throughout my dissertation project at the School of Applied Mathematics in Fundação Getulio Vargas, where my research focused on devising optimal vaccination strategies for epidemics in metropolitan areas, a subject that involves Optimal Control Theory and Epidemiology.
 
 My journey in mathematics began when I was awarded my first medal at the [Brazilian Mathematical Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/), where I was exposed to a junior scientific initiation program (PIC) focused on algebra, number theory and geometry. My four-year participation in this program was instrumental in developing my passion for the field, igniting my curiosity, and sharpening my skills. 
 
