@@ -15,11 +15,11 @@
   contents:
     - title: Ms.C. in Mathematical Modelling
       institution: Fundação Getulio Vargas, School of Applied Mathematics - Rio de Janeiro (Brazil)
-      year: 2022 - current
+      year: 2022 - 2023
       description:
         - Advisor Dr Maria Aronna Soledad
         - Academic grade A in all courses
-        - Expected conclusion in June, 2023
+        - Master's dissertation entitled "Optimal vaccination strategies for epidemics in metropolitan areas"
     - title: Bs.C. in Applied Mathematics
       institution: Fundação Getulio Vargas, School of Applied Mathematics- Rio de Janeiro (Brazil)
       year: 2018 - 2021
@@ -30,16 +30,16 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Dissertation production
-      institution: Fundação Getulio Vargas, School of Applied Mathematics
-      year: 2022 - current
-      description:
-         - The theme is Control on Complex Networks and Epidemics.
     - title: Paper production with Dr Dante Kalise and Dr Maria Soledad Aronna
       institution: Imperial College London, UK
       year: 2022 - current
       description:
          - The theme is Control on Fokker-Planck equation.
+    - title: Dissertation production
+      institution: Fundação Getulio Vargas, School of Applied Mathematics
+      year: 2022 - 2023
+      description:
+         - The theme is Control on Complex Networks and Epidemics.
     - title: Paper production with professor Dr. Luiz Max Carvalho.
       institution: Fundação Getulio Vargas, School of Applied Mathematics
       year: 2022 - 2023
@@ -66,7 +66,7 @@
   contents:
     - title: Teaching Assistant 
       institution: Fundação Getulio Vargas, School of Applied Mathematics
-      year: 2019 - current
+      year: 2019 - 2023
       description:
         - title: Ms.C level
           contents:
@@ -85,7 +85,7 @@
   contents:
     - title: Programming languages
       items: 
-        - Programming skills in Python, R, Julia, C++, Matlab and JavaScripts
+        - Programming skills in Python, R, Julia, C++, Matlab and JavaScript
     - title: Additional programming skills
       items: 
         - Programming tools Git, Visual Studio Code and Project Jupyter
@@ -126,7 +126,9 @@
   contents:
     - year: 2023      
       items:
-        - Poster presentation in the Latin American Congress on Industrial and Applied Mathematics organized by FGV EMAp and SBMAC (Rio de Janeiro, Brazil) entitled "Mathematical modelling of COVID-19 and analysis of Rio de Janeiro city's outbreak in 2020"
+        - Poster presentation in the 34th Brazilian Mathematics Colloquium (Rio de Janeiro, Brazil) organized by IMPA entitled "Optimal Vaccination Strategies in Interconnected Metropolitan Areas"
+        - Poster presentation in the IX Congreso de Matemática Aplicada, Computacional e Industrial (Santa Fé, Argentina) organized by ASAMACI entitled "Mathematical modelling of COVID-19 and analysis of Rio de Janeiro city's outbreak in 2020"
+        - Poster presentation in the Latin American Congress on Industrial and Applied Mathematics (Rio de Janeiro, Brazil) organized by FGV EMAp and SBMAC entitled "Mathematical modelling of COVID-19 and analysis of Rio de Janeiro city's outbreak in 2020"
     - year: 2022
       items: 
         - Poster presentation at V Mathematical Colloquium of the Southern Region entitled "Parameter estimation of a bivariate beta" (online)

@@ -5,17 +5,9 @@ description: "Master's dissertation with the theme at the intersection of Contro
               Theory and Complex Networks."
 img: assets/img/network-control.png
 importance: 1
-category: Current
+category: 2023
 ---
 
-This work in progress with [Maria Soledad Aronna](https://sites.google.com/view/aronna/home) is part of the requirements for obtaining a Master's degree in Mathematical Modelling at the School of Applied Mathematics of Fundação Getulio Vargas (FGV/EMAp). 
+Master’s Dissertation supervised by [Maria Soledad Aronna](https://sites.google.com/view/aronna/home) presented to the School of Applied Mathematics (FGV/EMAp) for the fulfillment of the requirements to obtain the Master’s Degree in Mathematical Modelling.
 
-Epidemic models are mathematical frameworks used to study the spread and control of infectious diseases within populations.
-One particular approach is the use of compartments that divide the population in subgroups, such as susceptibles, infected and recovered. 
-This model assumes that the group has a good mixing, but in the context of a larger population, it may be interesting to subdivide these groups.
-For that, metapopulations refer to a collection of interconnected subpopulations that exchange individuals over time through a contact matrix. 
-This is relevant because disease transmission can occur not only within a subpopulation but also between subpopulations. 
-Moreover, each subpopulation may have different characteristics such as the contact rate.
-In order to prevent worst outbreaks, the use of vaccination as a control method is an effective way to prevent the spread of infectious diseases. 
-These models allow for the assessment of different vaccination strategies and their impact on disease transmission, as well as the identification of the most effective control methods for specific populations.
-We study this models and consider them important tools in predicting and managing disease outbreaks.
+This study presents a mathematical model for optimal vaccination strategies in interconnected metropolitan areas, considering commuting patterns. The epidemiological model employed is a compartmental SEIR model, with a vaccination rate for each city acting as a control function, and the commuting patterns are incorporated through a weighted adjacency matrix and a parameter that weighs day and night periods. The optimal control (OC) problem is formulated to minimize a functional cost that balances the number of hospitalizations and vaccines, including restrictions of a weekly availability cap and an application limit of vaccines per unit of time, leading to mixed control-state and pure-state constraints. The key findings of this work are the bounds for the basic reproduction number, particularly in the case of a metropolitan area, and the OC problem analysis. Theoretical analysis and numerical simulations provide insights into disease dynamics and the effectiveness of control measures. The research highlights the importance of prioritizing vaccination in the capital to reduce disease spread faster, as we depicted in our numerical simulations, especially when it has higher contact rates. This model serves as a tool to improve resource allocation in epidemic control across metropolitan regions. Future research will refine this strategy and explore theoretical aspects of constrained control-affine problems. The study contributes significantly to our understanding of epidemic dynamics in metropolitan areas and the role of OC in mitigating disease outbreaks.
