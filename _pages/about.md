@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master's student at <a href='https://www.ljll.math.upmc.fr/MathModel/enseignement/les_cours_fondamentaux_en.html'> Sorbonné University</a>. 
+subtitle: Master's student at <a href='https://www.ljll.math.upmc.fr/MathModel/enseignement/les_cours_fondamentaux_en.html'> Sorbonne University</a>. 
           <br> Paris, France.
 
 profile:
@@ -19,7 +19,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Being in my second year as a master's student at Sorbonne University, I have already successfully concluded my master's program in Brazil. My academic journey has been characterized by an unwavering passion for science and mathematics, a commitment that continues to flourish within the esteemed Sorbonne University. During my studies in Brazil, I was fortunate to have [Pr. Maria Soledad Aronna](https://sites.google.com/view/aronna/home) as my advisor. She provided invaluable guidance throughout my dissertation project at the School of Applied Mathematics in Fundação Getulio Vargas, where my research focused on devising optimal vaccination strategies for epidemics in metropolitan areas, a subject that involves Optimal Control Theory and Epidemiology.
+Since September 2023 I have being studying the second year of master in Sorbonne University - M2 Mathématiques de la Modélisation. 
+Being in my second year as a master's student at Sorbonne University, I have already successfully concluded my master's program in Brazil. 
+My academic journey has been characterized by an unwavering passion for science and mathematics, a commitment that continues to flourish within the esteemed Sorbonne University. During my studies in Brazil, I was fortunate to have [Pr. Maria Soledad Aronna](https://sites.google.com/view/aronna/home) as my advisor. She provided invaluable guidance throughout my dissertation project at the School of Applied Mathematics in Fundação Getulio Vargas, where my research focused on devising optimal vaccination strategies for epidemics in metropolitan areas, a subject that involves Optimal Control Theory and Epidemiology.
 
 My journey in mathematics began when I was awarded my first medal at the [Brazilian Mathematical Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/), where I was exposed to a junior scientific initiation program (PIC) focused on algebra, number theory and geometry. My four-year participation in this program was instrumental in developing my passion for the field, igniting my curiosity, and sharpening my skills. 
 

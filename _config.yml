@@ -80,7 +80,7 @@ medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
 osf_id: # your OSF ID
-research_gate_profile: https://www.researchgate.net/profile/Lucas-Moschen # your profile on ResearchGate
+research_gate_profile: Lucas-Moschen # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
