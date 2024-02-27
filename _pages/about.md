@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Since September 2023, I have been studying in the M2 - Master in Mathématiques de la Modélisation program at Sorbonne University. 
+Since September 2023, I have been studying in the M2 - Master in Mathématiques de la Modélisation program at Sorbonne Universit with a scholarship from [Fondation Sciences Mathématiques de Paris (FSMP)](https://www.sciencesmaths-paris.fr/en/).
 Prior to this, I successfully completed my master's program in Brazil.
 My academic journey has been characterized by an unwavering passion for science and mathematics, a commitment that continues to flourish within the esteemed Sorbonne University. 
 
