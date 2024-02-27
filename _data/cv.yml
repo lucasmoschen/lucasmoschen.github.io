@@ -6,52 +6,59 @@
     - name: Languages
       value: Portuguese, English, studying French
     - name: E-mail
-      value: lucas.moschen@fgv.br
+      value: lucas.moschen@etu.sorbonne-universite.fr
     - name: Description
       value: A math student and aspiring scientist with a solid math background. I am interested in Optimal Control, Differential Equations, Probability and Statistics, with applications in Biology, such as Epidemiology, Public Health and Climate modelling.
 
 - title: Education
   type: time_table
   contents:
-    - title: Ms.C. in Mathematical Modelling
-      institution: Sorbonne University - Paris (France)
-      year: 2023 - 2024
+    - title: MSc in Mathematical Modelling
+      institution: Sorbonne University, Laboratoire Jacques Louis-Lion - Paris (France)
+      year: 2023 - current
       description:
-        - Advisor to be chosen
-    - title: Ms.C. in Mathematical Modelling
+        - Advisor Luis Almeida
+        - FSMP excellence scholarship
+        - Academic grade 17/20
+    - title: MSc in Mathematical Modelling
       institution: Fundação Getulio Vargas, School of Applied Mathematics - Rio de Janeiro (Brazil)
       year: 2022 - 2023
       description:
-        - Advisor Dr Maria Aronna Soledad
+        - Advisor María Soledad Aronna
         - Academic grade A in all courses
         - Master's dissertation entitled "Optimal vaccination strategies for epidemics in metropolitan areas"
-    - title: Bs.C. in Applied Mathematics
+    - title: BSc in Applied Mathematics
       institution: Fundação Getulio Vargas, School of Applied Mathematics- Rio de Janeiro (Brazil)
       year: 2018 - 2021
       description:
-        - Advisor Dr Luiz Max Carvalho
+        - Advisor Luiz Max Carvalho
         - Bachelor dissertation entitled "Prevalence estimation and binary regression methods for respondent-driven sampling with outcome uncertainty" 
 
 - title: Research Experience
   type: time_table
   contents:
-    - title: Paper production with Dr Dante Kalise and Dr Maria Soledad Aronna
+    - title: Internship with Luis Almeida
+      institution: Sorbonne University, France
+      year: 2024
+      description:
+         - The theme is mosquito-borne disease models and reinforcement learning for controlling
+    - title: Internship with Dante Kalise
       institution: Imperial College London, UK
-      year: 2022 - current
+      year: 2022
       description:
          - The theme is Control on Fokker-Planck equation.
-    - title: Dissertation production
+    - title: Dissertation and paper production with Maria Soledad Aronna
       institution: Fundação Getulio Vargas, School of Applied Mathematics
       year: 2022 - 2023
       description:
          - The theme is Control on Complex Networks and Epidemics.
-    - title: Paper production with professor Dr. Luiz Max Carvalho.
+    - title: Paper production with professor Luiz Max Carvalho.
       institution: Fundação Getulio Vargas, School of Applied Mathematics
       year: 2022 - 2023
       description:
          - The theme of the paper is on parameter inference and diagnostics for a bivariate beta distribution.
          - This paper is under the submission process.
-    - title: Paper production with professors Dr. Maria Soledad Aronna and Dr. Roberto Guglielmi
+    - title: Paper production with professors Maria Soledad Aronna and Roberto Guglielmi
       institution: Fundação Getulio Vargas, School of Applied Mathematics
       year: 2020 - 2021
       description: 
@@ -60,7 +67,7 @@
       institution: Fundação Getulio Vargas, School of Applied Mathematics
       year: 2019 - 2020
       description:
-         - Advisor Dr Maria Soledad Aronna
+         - Advisor Maria Soledad Aronna
          - Theme on Optimal Control in Biological Models
     - title: Junior Scientific Initiation Program in Mathematics
       institution: National Institute for Pure and Applied Mathematics - Rio de Janeiro (Brazil)
@@ -73,10 +80,10 @@
       institution: Fundação Getulio Vargas, School of Applied Mathematics
       year: 2019 - 2023
       description:
-        - title: Ms.C level
+        - title: MSc level
           contents:
           - Partial Differential Equations and Applications (2023), Probability (2023), Functional Analysis (2022), Statistical inference (2022), Bayesian Statistics (2022)
-        - title: Bs.C level
+        - title: BSc level
           contents:
           - Partial Differential Equations (2021, 2022), Curves and Surfaces (2021, 2022), Introduction to Numerical Analysis (2021), Statistical inference (2020), Ordinary Differential Equations (2020) and Linear Algebra (2019)
     - title: Volunteer Algebra teacher
@@ -104,10 +111,10 @@
         - Best poster presentation for the work on COVID-19 mathematical modelling at the IX Congreso de Matemática Aplicada, Computacional e Industrial;
     - year: 2022
       items: 
-        - Scientific Initiation Award SBMAC (3rd place) for my Bachelor Dissertation 
+        - Scientific Initiation Award SBMAC (3rd place) for my Bachelor's Dissertation 
     - year: 2021
       items: 
-        - Academic Excellence with the highest final grade in the Bs.C. course.
+        - Academic Excellence with the highest final grade in the BSc course.
     - year: 2013 - 2017
       items: 
         - Two gold, one silver and two bronze medals in the Brazilian Mathematical Olympiad of Public Schools;
@@ -131,6 +138,8 @@
   contents:
     - year: 2023      
       items:
+        - Oral presentation in the PGMODays 2023 (Palaiseau, France) organized by Hadamard Foundation entitled "Optimal Vaccinaiton Strategies in Metropolitan Areas"
+        - Participant in the 10th Heidelberg Laureate Forum (Heidelberg, Germany) founded and funded by Klaus Tschira Stiftung 
         - Poster presentation in the 34th Brazilian Mathematics Colloquium (Rio de Janeiro, Brazil) organized by IMPA entitled "Optimal Vaccination Strategies in Interconnected Metropolitan Areas"
         - Poster presentation in the IX Congreso de Matemática Aplicada, Computacional e Industrial (Santa Fé, Argentina) organized by ASAMACI entitled "Mathematical modelling of COVID-19 and analysis of Rio de Janeiro city's outbreak in 2020"
         - Poster presentation in the Latin American Congress on Industrial and Applied Mathematics (Rio de Janeiro, Brazil) organized by FGV EMAp and SBMAC entitled "Mathematical modelling of COVID-19 and analysis of Rio de Janeiro city's outbreak in 2020"
