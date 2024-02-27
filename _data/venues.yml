@@ -1,20 +1,20 @@
-"2021 COVID model"
-  url: https://www.sciencedirect.com/science/article/pii/S1755436521000025
-  color: "#00369f"
-
 "Epidemics":
-  url: https://www.sciencedirect.com/science/article/pii/S1755436521000025
+  url: https://www.sciencedirect.com/journal/epidemics
   color: "#00369f"
 
 "IDM":
-  url: https://www.sciencedirect.com/science/article/pii/S2468042722000380?via%3Dihub
+  url: https://www.sciencedirect.com/journal/infectious-disease-modelling
   color: "#00369f"
 
 "FGV":
-  url: https://bibliotecadigital.fgv.br/dspace/handle/10438/31844
+  url: https://repositorio.fgv.br/home
   color: "#00369f"
 
 "arXiv":
-  url: https://arxiv.org/abs/2303.01271
+  url: https://arxiv.org/
+  color: "#00369f"
+
+"medRxiv":
+  url: https://www.medrxiv.org/
   color: "#00369f"
 
