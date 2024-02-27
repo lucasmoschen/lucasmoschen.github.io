@@ -7,4 +7,5 @@ importance: 2
 category: 2023
 ---
 
-This work in progress with [Dante Kalise](https://www.dkalise.net/) and [Maria Soledad Aronna](https://sites.google.com/view/aronna/home). 
+This work was developed during my internship at Imperial College London with [Dante Kalise](https://www.dkalise.net/).
+We studied optimal control strategies for the Fokker-Plank equation in the aspect of driving the distribution from an initial to a final one and accelerating the convergence to the stable state.
