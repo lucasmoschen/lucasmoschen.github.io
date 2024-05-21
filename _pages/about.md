@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master's student at <a href='https://www.ljll.math.upmc.fr/MathModel/enseignement/les_cours_fondamentaux_en.html'> Sorbonne University</a>. 
+subtitle: Master's student at <a href='https://www.ljll.math.upmc.fr/MathModel/enseignement/les_cours_fondamentaux_en.html'> Sorbonne University</a> and Intern at <a href="https://www.agroparistech.fr/">AgroParisTech</a> (Paris-Saclay University). 
           <br> Paris, France.
 
 profile:
@@ -20,6 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 Since September 2023, I have been studying in the M2 - Master in Mathématiques de la Modélisation program at Sorbonne Universit with a scholarship from [Fondation Sciences Mathématiques de Paris (FSMP)](https://www.sciencesmaths-paris.fr/en/).
+Within the master program, I am working with professors Camille Coron and Luis Almeida at AgroParisTech in stochastic models for mosquito dynamic population and control.
 Prior to this, I successfully completed my master's program in Brazil.
 My academic journey has been characterized by an unwavering passion for science and mathematics, a commitment that continues to flourish within the esteemed Sorbonne University. 
 
