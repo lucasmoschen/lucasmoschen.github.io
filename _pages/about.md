@@ -26,7 +26,7 @@ I am currently funded by the **Roth PhD Scholarship** under the **CNRS-Imperial 
 
 My enthusiasm for mathematics initiated early on, earning my first recognition at the [Brazilian Mathematical Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/), where I was exposed to a junior scientific initiation program (PIC) focused on algebra, number theory and geometry.
 
-During my academic journey, I have had the privilege of working with all my supervisos on diverse topics in optimal control, epidemiology, PDE, and statatistics, with a focus on improving methods in Applied Mathematics.
+During my academic journey, I have had the privilege of working with all my supervisors on diverse topics in optimal control, epidemiology, PDE, and statistics, with a focus on improving methods in Applied Mathematics.
 
 ### **Academic Background**  
 
