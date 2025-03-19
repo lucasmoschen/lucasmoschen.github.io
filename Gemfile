@@ -1,4 +1,4 @@
-ruby '3.4.1'
+ruby '3.3.7'
 source 'https://rubygems.org'
 group :jekyll_plugins do
     gem 'classifier-reborn'
