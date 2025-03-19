@@ -19,12 +19,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a **PhD researcher in Mathematics**, specializing in **Optimization, Control Theory, and Partial Differential Equations**. 
-My research focuses on **PDE-constrained optimization**, particularly developing control methods for the **McKean-Vlasov and Fokker-Planck equations** or PDE models that arise from diffusion processes, with applications in **physics, social sciences, and biology**.
+I am a **PhD researcher in Mathematics** at Imperial College London, specializing in **Optimization**, **Control Theory**, and **Partial Differential Equations**. 
+My research focuses on **PDE-constrained optimization**, particularly developing control methods for the **McKean-Vlasov and Fokker-Planck equations** or other PDE models that arise from diffusion processes, with applications in **physics, social sciences, and biology**.
 
-I am currently funded by the **Roth PhD Scholarship** and have received previous academic awards, including the **PGSM Master Scholarship**, the **PICME Scholarship**, and support from the **CDMC Talent Program**.
+I am currently funded by the **Roth PhD Scholarship** under the **CNRS-Imperial Joint Program**, and have received previous academic awards, including the **PGSM Master Scholarship**, the **PICME Scholarship**, and support from the **CDMC Talent Program** during my academic journey
 
 My enthusiasm for mathematics initiated early on, earning my first recognition at the [Brazilian Mathematical Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/), where I was exposed to a junior scientific initiation program (PIC) focused on algebra, number theory and geometry.
+
+During my academic journey, I have had the privilege of working with all my supervisos on diverse topics in optimal control, epidemiology, PDE, and statatistics, with a focus on improving methods in Applied Mathematics.
 
 ### **Academic Background**  
 
@@ -45,12 +47,11 @@ My enthusiasm for mathematics initiated early on, earning my first recognition a
   - Participant in the project [Scientific Initiation and Master's Program (PICME)](https://picme.obmep.org.br/)
   - Supervised by [Prof. Luiz Max Carvalho](https://github.com/maxbiostat)
 
-
-During my academic journey, I have had the privilege of working with all my supervisos on diverse topics in optimal control, epidemiology, PDE, and statatistics, with a focus on improving methods in Applied Mathematics.
-
 ### **Research Interests**  
 
 - Optimal Control Theory
 - PDE-Constrained Optimization
 - Mathematical Modeling in Biology & Epidemiology
 - Data Science & Computational Methods
+
+**For Older News**, check [here](/news).
