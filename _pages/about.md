@@ -2,8 +2,8 @@
 layout: about
 title: About
 permalink: /
-subtitle: Master's student at <a href='https://www.ljll.math.upmc.fr/MathModel/enseignement/les_cours_fondamentaux_en.html'> Sorbonne University</a> and Intern at <a href="https://www.agroparistech.fr/">AgroParisTech</a> (Paris-Saclay University). 
-          <br> Paris, France.
+subtitle: PhD Student at Imperial College London
+          <br> London, UK
 
 profile:
   align: left
@@ -19,28 +19,38 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Since September 2023, I have been studying in the M2 - Master in Mathématiques de la Modélisation program at Sorbonne Universit with a scholarship from [Fondation Sciences Mathématiques de Paris (FSMP)](https://www.sciencesmaths-paris.fr/en/).
-Within the master program, I am working with professors Camille Coron and Luis Almeida at AgroParisTech in stochastic models for mosquito dynamic population and control.
-Prior to this, I successfully completed my master's program in Brazil.
-My academic journey has been characterized by an unwavering passion for science and mathematics, a commitment that continues to flourish within the esteemed Sorbonne University. 
+I am a **PhD researcher in Mathematics**, specializing in **Optimization, Control Theory, and Partial Differential Equations**. 
+My research focuses on **PDE-constrained optimization**, particularly developing control methods for the **McKean-Vlasov and Fokker-Planck equations** or PDE models that arise from diffusion processes, with applications in **physics, social sciences, and biology**.
 
-During my studies in Brazil, I was fortunate to have [Prof. Maria Soledad Aronna](https://sites.google.com/view/aronna/home) as my advisor. 
-She provided invaluable guidance throughout my dissertation project at the School of Applied Mathematics in Fundação Getulio Vargas, where my research focused on studying optimal vaccination strategies for epidemics in metropolitan areas, leveraging Optimal Control Theory and Epidemiology.
+I am currently funded by the **Roth PhD Scholarship** and have received previous academic awards, including the **PGSM Master Scholarship**, the **PICME Scholarship**, and support from the **CDMC Talent Program**.
 
-My enthusiasm for mathematics was sparked early on, earning my first recognition at the [Brazilian Mathematical Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/), where I was exposed to a junior scientific initiation program (PIC) focused on algebra, number theory and geometry.
-Participating in OBMEP's junior scientific initiation program was pivotal, nurturing my curiosit, passion and sharpening my mathematical skills over four years.
+My enthusiasm for mathematics initiated early on, earning my first recognition at the [Brazilian Mathematical Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/), where I was exposed to a junior scientific initiation program (PIC) focused on algebra, number theory and geometry.
 
-Thanks to the opportunities and support provided by the program, I enrolled in the Applied Math undergraduate course at FGV in 2018.
-Inspired by my scientific initiation and motivated by my growing interest in mathematics, I began taking master's courses in 2019, encouraged by the [Scientific Initiation and Master's Program (PICME)](https://picme.obmep.org.br/). 
-My Bachelor's Dissertation, presented in 2021 and supervised by [Prof. Luiz Max Carvalho](https://github.com/maxbiostat), tackled the prevalence estimation problem in hard-to-reach populations with imperfect diagnostic tests, earning recognition from the [Brazilian Society of Applied Mathematics (SBMAC)](https://www.sbmac.org.br/) as the third-best Research Initiation Project in 2022.
+### **Academic Background**  
 
-This recognition has only fueled my drive to make further strides in the field of mathematics, and I am excited about the future possibilities that lie ahead. 
-In the final term of 2022, I also had the opportunity to visit Prof. Dante Kalise at Imperial College London to study optimal control of the Fokker-Planck equation.
+- **PhD in Mathematics** (Ongoing)  
+  - Scholarship from the CNRS-Imperial joint program
+  - Research on control and optimization of PDEs  
+  - Supervised by [Greg Pavliotis](https://www.ma.imperial.ac.uk/~pavl/) and [Dante Kalise](https://www.dkalise.net/) at the Department of Mathematics
+- **Master’s in Applied Mathematics** – [Sorbonne University, Laboratoire Jacques Louis Lions](https://www.ljll.math.upmc.fr/MathModel/enseignement/les_cours_fondamentaux_en.html), France  
+  - Scholarship from [Fondation Sciences Mathématiques de Paris (FSMP)](https://www.sciencesmaths-paris.fr/en/)  
+  - Research on **stochastic models for mosquito population dynamics and control**  
+  - Supervised by [Camille Coron](https://www.imo.universite-paris-saclay.fr/~camille.coron/index_english.php) and [Luis Almeida](https://www.ljll.fr/~almeida/) at AgroParisTech
+- **Master’s in Applied Mathematics** – Fundação Getulio Vargas (FGV), Brazil  
+  - Research on **optimal vaccination strategies for epidemics in metropolitan areas**
+  - Supervised by [Maria Soledad Aronna](https://sites.google.com/view/aronna/home)
+- **Bachelor's in Applied Mathematics** – Fundação Getulio Vargas (FGV), Brazil  
+  - Research on **prevalence estimation in hard-to-reach populations with imperfect diagnostic tests** 
+  - Awarded by the [Brazilian Society of Applied Mathematics (SBMAC)](https://www.sbmac.org.br/)  
+  - Participant in the project [Scientific Initiation and Master's Program (PICME)](https://picme.obmep.org.br/)
+  - Supervised by [Prof. Luiz Max Carvalho](https://github.com/maxbiostat)
 
-## Research Interests:
+
+During my academic journey, I have had the privilege of working with all my supervisos on diverse topics in optimal control, epidemiology, PDE, and statatistics, with a focus on improving methods in Applied Mathematics.
+
+### **Research Interests**  
 
 - Optimal Control Theory
-- Biomathematics and Epidemiology
-- Network theory
-- Applied Statistics
-- Data Science
+- PDE-Constrained Optimization
+- Mathematical Modeling in Biology & Epidemiology
+- Data Science & Computational Methods
