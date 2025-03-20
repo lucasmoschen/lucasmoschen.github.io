@@ -5,7 +5,7 @@ description: "Study of the playlist continuation problem and implementation of
              recommendation algorithms to deal with it. Implemented with Lucas Resck."
 img: assets/img/espotifai.png
 importance: 1
-category: 2020
+category: Undergrad
 ---
 
 [Official website](https://lucasresck.github.io/espotifai/)

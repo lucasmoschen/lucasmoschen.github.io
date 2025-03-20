@@ -5,7 +5,7 @@ description: "Master's dissertation with the theme at the intersection of Contro
               Theory and Complex Networks."
 img: assets/img/network-control.png
 importance: 1
-category: 2023
+category: Master
 ---
 
 Master’s Dissertation supervised by [Maria Soledad Aronna](https://sites.google.com/view/aronna/home) presented to the School of Applied Mathematics (FGV/EMAp) for the fulfillment of the requirements to obtain the Master’s Degree in Mathematical Modelling.

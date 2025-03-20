@@ -4,7 +4,7 @@ title: "Discrete Math's Book in Lean"
 description: "Book written by the class about some classic topics in Discrete Mathematics and applied in Lean Theorem Prover. It was our final project in the course."
 img: assets/img/book-md.png
 importance: 4
-category: 2019
+category: Undergrad
 ---
 
 Book written in portuguese, our native language, by the class about some classic topics in [Discrete Mathematics](https://emap.fgv.br/en/discipline/graduacao-matematica-aplicada-graduacao-ciencia-de-dados/discrete-mathematics) and applied in Lean Theorem Prover. 

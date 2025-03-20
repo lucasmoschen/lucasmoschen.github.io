@@ -4,7 +4,7 @@ title: "Control of Fokker-Plack equation"
 description: "Fokker-Planck equation and optimal control driving the final distribution."
 img: assets/img/fp-equation.png
 importance: 2
-category: 2022
+category: Master
 ---
 
 This work was developed during my internship at Imperial College London with [Dante Kalise](https://www.dkalise.net/).

@@ -4,7 +4,7 @@ title: "Covid 19 Model"
 description: "Numerical simulations and applications of the model developed my pulication with M. S. Aronna and R. Guglielmi"
 img: assets/img/covid19-model.png
 importance: 2
-category: 2020
+category: Undergrad
 ---
 
 Numerical simulations and applications of the model described in the publication entitled [*A model for COVID-19 with isolation, quarantine and testing as control measures*](https://doi.org/10.1016/j.epidem.2021.100437), a publication that I was co-author. 

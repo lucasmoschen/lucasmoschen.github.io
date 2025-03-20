@@ -4,7 +4,7 @@ title: "Optimal Control Theory"
 description: "Theme of my Scientific Initiation based on the book of S. Lenhart and J. Workman. It was developed a reference text in portuguese and notebooks with applications in the topics."
 img: assets/img/optimal_control_book.png
 importance: 1
-category: 2019
+category: Undergrad
 ---
 
 ## About The Project

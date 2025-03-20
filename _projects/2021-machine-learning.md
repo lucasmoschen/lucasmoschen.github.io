@@ -5,7 +5,7 @@ description: "Final assignment on the subject Machine Learning with the data fro
               de Janeiro."
 img: assets/img/air-pollution.png
 importance: 3
-category: 2021
+category: Undergrad
 ---
 
 [GiHub repository](https://github.com/lucasmoschen/machine-learning-project).

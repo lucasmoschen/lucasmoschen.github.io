@@ -5,7 +5,7 @@ description: "Implementation of a search engine for Data Structures and Algorith
 class, implemented with Alessandra Cid and Lucas Resck."
 img: assets/img/search-engine.png
 importance: 3
-category: 2019
+category: Undergrad
 ---
 
 Implementation of a search engine for Data Structures and Algorithms class, implemented with [Alessandra Cid](https://github.com/alessandracid) and [Lucas Domingues](https://github.com/lucasresck). 

@@ -4,7 +4,7 @@ title: "Computer Graphics' Project"
 description: "Final course's project about correction with B-Cell image histograms obtained by transmission electron microscopy."
 img: assets/img/computer_graphics_project.png
 importance: 2
-category: 2019
+category: Undergrad
 ---
 
 [Official website in Portuguese](https://lucasmoschen.github.io/computer-graphics/)

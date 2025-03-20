@@ -5,7 +5,7 @@ description: "Network science tools to analyze the Brazil's Chamber of Deputies 
               voting pattern."
 img: assets/img/network-science.png
 importance: 2
-category: 2021
+category: Master
 ---
 
 [GitHub's repository](https://github.com/lucasmoschen/project-network-science).

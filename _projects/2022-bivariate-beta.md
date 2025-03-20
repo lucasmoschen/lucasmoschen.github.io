@@ -4,7 +4,7 @@ title: "A bivariate beta distribution"
 description: "Study of the bivariate beta distribution proposed by Olkin and Trikalinos (2015), parameter inference and diagnostics."
 img: assets/img/alpha_solution_existence.png
 importance: 1
-category: 2022
+category: Master
 ---
 
 This work started with the bivariate beta distribution introduced by [Olkin & Trikalinos (2015)](https://www.sciencedirect.com/science/article/pii/S0167715214003241). 
