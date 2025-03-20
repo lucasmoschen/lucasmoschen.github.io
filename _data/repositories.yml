@@ -4,6 +4,7 @@ github_users:
 github_repos:
   - lucasmoschen/ta-sessions
   - lucasmoschen/modelo-tcc-emap
+  - lucasmoschen/optimal-vaccination-networks
   - lucasmoschen/phd-bayesian-statistics
   - lucasmoschen/linear-programming
   - lucasmoschen/computational-statistics
