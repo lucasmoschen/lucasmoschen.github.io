@@ -9,6 +9,8 @@ display_categories: [Current, Master, Undergrad]
 horizontal: false
 ---
 
+For checking github repositories, check the [Repositories Page](/repositories/).
+
 <!-- pages/projects.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
