@@ -155,6 +155,10 @@
 - title: Conferences
   type: time_table
   contents:
+    - title: 2025
+      description:
+        - StatML Spring School on Computational Optimal Transport and Missing Values (Windsor, UK) - Organized by StatML CDT; poster presentation.
+
     - title: 2024
       description:
         - Summer School on Collective Behavior and Pattern Formation (Paris, France) - Organized by CIRM, with all costs covered; poster presentation.
