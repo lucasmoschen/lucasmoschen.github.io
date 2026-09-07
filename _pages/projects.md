@@ -2,14 +2,14 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A growing collection of my projects during my Undergraduate's and Master's courses.
+description: Current research and completed projects from my PhD, master's, and undergraduate studies.
 nav: true
 nav_order: 4
-display_categories: [Current, Master, Undergrad]
+display_categories: [Current, PhD, Master, Undergrad]
 horizontal: false
 ---
 
-For checking github repositories, check the [Repositories Page](/repositories/).
+Related code is also listed on the [Repositories page](/repositories/).
 
 <!-- pages/projects.md -->
 <div class="projects">

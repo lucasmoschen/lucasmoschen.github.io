@@ -1,12 +1,16 @@
 ---
 layout: page
-title: "Control of Fokker-Plack equation"
-description: "A Spectral Approach to Optimal Control of the Fokker-Planck Equation"
+title: "Control and stabilisation of probability distributions"
+description: "Spectral and feedback control methods for steering probability distributions towards equilibrium."
 img: assets/img/fp-equation.png
-importance: 2
-category: Current
+importance: 1
+category: PhD
 ---
 
-In this paper, we present a spectral optimal control framework for Fokker-Planck equations based on the standard ground state transformation that maps the Fokker-Planck operator to a Schrodinger operator. Our primary objective is to accelerate convergence toward the (unique) steady state. To fulfill this objective, a gradient-based iterative algorithm with Pontryagin's maximum principle and Barzilai-Borwein update is developed to compute time-dependent controls. Numerical experiments on two-dimensional ill-conditioned normal distributions and double-well potentials demonstrate that our approach effectively targets slow-decaying modes, thus increasing the spectral gap.
+This project develops control methods for steering probability distributions towards a desired equilibrium and accelerating their convergence. With Dante Kalise, Grigorios A. Pavliotis, and Urbain Vaes, I study Fokker–Planck and McKean–Vlasov equations through spectral methods, optimal control, and feedback stabilisation. The work connects control of the dynamics with the geometry and local convexity of the underlying free energy.
 
-Check the preprint here: [https://arxiv.org/abs/2503.15125](https://arxiv.org/abs/2503.15125).
+Related papers:
+
+- [A Spectral Approach to Optimal Control of the Fokker–Planck Equation](https://arxiv.org/abs/2503.15125) — IEEE Control Systems Letters, 2025.
+- [Linearization-Based Feedback Stabilization of McKean–Vlasov PDEs](https://arxiv.org/abs/2507.12411) — accepted in SIAM Journal on Control and Optimization.
+- [Feedback Control and Local Convexification of Wasserstein Gradient Flows](https://arxiv.org/abs/2603.13588) — preprint, 2026.
