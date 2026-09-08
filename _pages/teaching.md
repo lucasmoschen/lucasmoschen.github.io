@@ -8,8 +8,10 @@ nav_order: 3
 ---
 
 ### 🔹 Teaching Assistant at **Imperial College London**
+
+- **Linear Algebra and Groups** (Fall 2024, Winter 2026, BSc Level) — **Senior GTA in Winter 2026**
+- **Optimisation and Decision Models** (Winter 2026)
 - **Analysis I** (Fall 2024, Winter 2025, BSc Level)
-- **Linear Algebra and Groups** (Fall 2024, BSc Level)
 
 ### 🔹 Teaching Assistant at **FGV/EMAp**
 💡 **[Click here](https://lucasmoschen.github.io/ta-sessions/) for course materials (Portuguese).**  
