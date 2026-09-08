@@ -1,205 +1,349 @@
+---
 - title: General Information
   type: map
   contents:
-    - name: Name
-      value: Lucas M. Moschen
-    - name: Languages
-      value: Portuguese, English, studying French
-    - name: E-mail
-      value: lucas.moschen22@imperial.ac.uk
-    - name: Description
-      value: My research interests lie at the intersection of mathematical modelling, control theory, and numerical analysis for differential equations. I am currently focused on developing optimal control methods for mean-field PDEs, such as the McKean-Vlasov and Fokker-Planck equations, with applications to large-scale stochastic systems like opinion dynamics. My previous work has explored optimal control problems in constrained systems, including epidemic models and stochastic population dynamics, with methods spanning probability, optimisation, and reinforcement learning.
-
+  - name: Name
+    value: Lucas M. Moschen
+  - name: Languages
+    value: Portuguese, English, studying French
+  - name: E-mail
+    value: lucas.moschen22@imperial.ac.uk
+  - name: Description
+    value: My research combines mathematical modelling, control theory, and numerical
+      analysis to study probability distributions and interacting stochastic systems.
+      I develop feedback control methods for Fokker-Planck, McKean-Vlasov,
+      and Wasserstein gradient-flow models based on spectral properties, with current work on coupled populations,
+      sampling, and effective dynamics. My earlier research concerns constrained vaccination
+      policies on networks and statistical inference for correlated proportions.
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. in Mathematics
-      institution: Imperial College London, London (UK)
-      year: 2024 - current
-      description:
-        - Supervisors Grigorios Pavliotis and Dante Kalise
-        - Research Focus Optimal control of mean-field PDEs (McKean-Vlasov and Fokker-Planck), with emphasis on theoretical analysis and numerical stabilization techniques.
-
-    - title: MSc in Mathematics of Modelling
-      institution: Sorbonne University, Laboratoire Jacques-Louis Lions - Paris (France)
-      year: 2023 - 2024
-      description:
-        - Supervisors Camille Coron and Luis Almeida
-        - Memoire "Modeling and Control of Mosquito Populations, From Stochastic Processes to Reinforcement Learning"
-        - Research Focus Analysis and control of stochastic models for mosquito populations.
-
-    - title: MSc in Mathematical Modelling
-      institution: Fundação Getulio Vargas, School of Applied Mathematics - Rio de Janeiro (Brazil)
-      year: 2022 - 2023
-      description:
-        - Supervisor María Soledad Aronna
-        - Master's Thesis "Optimal vaccination strategies for epidemics in metropolitan areas"
-        - Research Focus Optimal control of constrained affine systems, applied to epidemic dynamics in networks of cities.
-
-    - title: BSc in Applied Mathematics
-      institution: Fundação Getulio Vargas, School of Applied Mathematics - Rio de Janeiro (Brazil)
-      year: 2018 - 2021
-      description:
-        - Supervisor Luiz Max Carvalho
-        - Bachelor Dissertation "Prevalence estimation and binary regression methods for respondent-driven sampling with outcome uncertainty"
-        - Research Focus Bayesian methods for prevalence estimation under partial graph observation.
-
+  - title: Ph.D. in Mathematics
+    institution: Imperial College London, London (UK)
+    year: 2024 - present
+    description:
+    - 'Supervisors: Grigorios A. Pavliotis and Dante Kalise.'
+    - 'Research focus: control and stabilisation of probability distributions, Wasserstein
+      gradient flows, and interacting particle systems.'
+  - title: MSc in Mathematics of Modelling
+    institution: Sorbonne University, Laboratoire Jacques-Louis Lions - Paris (France)
+    year: 2023 - 2024
+    description:
+    - Supervisors Camille Coron and Luis Almeida
+    - Memoire "Modeling and Control of Mosquito Populations, From Stochastic Processes
+      to Reinforcement Learning"
+    - Research Focus Analysis and control of stochastic models for mosquito populations.
+  - title: MSc in Mathematical Modelling
+    institution: Fundação Getulio Vargas, School of Applied Mathematics - Rio de Janeiro
+      (Brazil)
+    year: 2022 - 2023
+    description:
+    - Supervisor María Soledad Aronna
+    - Master's Thesis "Optimal vaccination strategies for epidemics in metropolitan
+      areas"
+    - Research Focus Optimal control of constrained affine systems, applied to epidemic
+      dynamics in networks of cities.
+  - title: BSc in Applied Mathematics
+    institution: Fundação Getulio Vargas, School of Applied Mathematics - Rio de Janeiro
+      (Brazil)
+    year: 2018 - 2021
+    description:
+    - Supervisor Luiz Max Carvalho
+    - Bachelor Dissertation "Prevalence estimation and binary regression methods for
+      respondent-driven sampling with outcome uncertainty"
+    - Research Focus Bayesian methods for prevalence estimation under partial graph
+      observation.
 - title: Research Experience
   type: time_table
   contents:
-    - title: Optimal Control and Mean-Field Games
-      institution: Imperial College London
-      year: 2024 - present
-      description:
-         - Developing numerical stabilization methods for optimal control of McKean-Vlasov and Fokker-Planck PDEs.
-         - Supervised by Grigorios Pavliotis and Dante Kalise.
-         - Publications in progress (see Publications section).
-  
-    - title: Control and Stochastic Modeling in Biology
-      institution: Sorbonne University
-      year: 2023 - 2024
-      description:
-         - Developed models for mosquito population control using reinforcement learning.
-         - Supervised by Luis Almeida and Camille Coron.
-
-    - title: Optimal Control in Epidemiology
-      institution: FGV
-      year: 2022 - 2023
-      description:
-         - Investigated optimal vaccination strategies in networks of cities.
-         - Supervised by Maria Soledad Aronna
-         - Resulted in two publications and conference talks.
-
-    - title: Statistical Inference and Bayesian Methods
-      institution: Fundação Getulio Vargas (FGV)
-      year: 2022 - 2023
-      description:
-         - Developed parameter inference and diagnostics for bivariate beta distributions.
-         - Co-authored a paper under submission (with Luiz Max Carvalho).
-  
-    - title: Early Research & Scientific Initiation
-      institution: Fundação Getulio Vargas & IMPA
-      year: 2014 - 2021
-      description:
-         - Undergraduate research on optimal control in biological models (supervised by Maria Soledad Aronna).
-         - Junior Scientific Initiation at IMPA (2014-2017).
-         - Co-authored early papers on optimal control and epidemiology.
-
+  - title: Control of Probability Distributions and Interacting Systems
+    institution: Imperial College London
+    year: 2024 - present
+    description:
+    - Supervised by Grigorios A. Pavliotis and Dante Kalise.
+    - title: Completed research
+      contents:
+      - <a href="/projects/2025-control-fokker-planck/">Control and stabilisation
+        of probability distributions</a> — spectral optimal control, feedback stabilisation,
+        and local convexification; three related papers listed below.
+    - title: Current projects
+      contents:
+      - <a href="/projects/2025-control-mckean-vlasov/">Feedback control of mean-field
+        systems</a> — coupled populations, partial actuation, and unbounded domains.
+      - <a href="/projects/2026-feedback-sampling/">Feedback control for sampling</a>
+        — particle implementations and the computational cost of approaching target
+        distributions.
+      - <a href="/projects/2026-control-effective-dynamics/">Control and Effective
+        Dynamics</a> — reduced feedback design through reaction coordinates and the
+        effect of model-reduction errors.
+  - title: Research Visit
+    institution: CERMICS, Paris, France
+    year: May - Jun 2025
+    description:
+    - Visited Urbain Vaes to develop research directions related to my PhD.
+  - title: Control and Stochastic Modeling in Biology
+    institution: Sorbonne University
+    year: 2023 - 2024
+    description:
+    - Developed models for mosquito population control using reinforcement learning.
+    - Supervised by Luis Almeida and Camille Coron.
+  - title: Optimal Control in Epidemiology
+    institution: FGV
+    year: 2022 - 2023
+    description:
+    - Investigated optimal vaccination strategies across connected populations, supervised
+      by Maria Soledad Aronna.
+    - <a href="/projects/2023-network-control/">Epidemics in networks</a> — master’s
+      dissertation followed by papers in Infectious Disease Modelling (2024) and IEEE
+      Control Systems Letters (2025), covering commuting networks, vaccination constraints,
+      and bang-bang policies.
+  - title: Statistical Inference and Bayesian Methods
+    institution: Fundação Getulio Vargas (FGV)
+    year: 2022 - 2023
+    description:
+    - <a href="/projects/2022-bivariate-beta/">Modelling correlated proportions</a>
+      — classical and Bayesian inference, prior elicitation, and model diagnostics
+      with Luiz Max Carvalho.
+    - Compared bivariate beta and logistic-normal models, with applications to vaccination
+      coverage and diagnostic-test data. Published in TEST (2026).
+  - title: Early Research & Scientific Initiation
+    institution: Fundação Getulio Vargas & IMPA
+    year: 2014 - 2021
+    description:
+    - Undergraduate research on optimal control in biological models (supervised by
+      Maria Soledad Aronna).
+    - Junior Scientific Initiation at IMPA (2014-2017).
+    - Co-authored early papers on optimal control and epidemiology.
+- title: Publications and Preprints
+  type: time_table
+  contents:
+  - title: '<a href="https://hdl.handle.net/10044/1/132384">Modelling correlated proportion
+      data: Bayesian and classical approaches to inference and diagnostics</a>'
+    institution: Lucas Machado Moschen and Luiz Max Carvalho
+    year: '2026'
+    description:
+    - TEST (2026). Link to the accepted manuscript.
+    - 'An earlier version appeared as <a href="https://arxiv.org/abs/2303.01271">Bivariate
+      beta distribution: parameter inference and diagnostics</a>.'
+  - title: <a href="https://arxiv.org/abs/2507.12411">Linearization-Based Feedback
+      Stabilization of McKean-Vlasov PDEs</a>
+    institution: Dante Kalise, Lucas M. Moschen, and Grigorios A. Pavliotis
+    year: Accepted
+    description:
+    - Accepted for publication in SIAM Journal on Control and Optimization (SICON).
+      Preprint first posted in 2025.
+  - title: <a href="https://arxiv.org/abs/2603.13588">Feedback Control and Local Convexification
+      of Wasserstein Gradient Flows</a>
+    institution: Dante Kalise, Lucas M. Moschen, and Grigorios A. Pavliotis
+    year: '2026'
+    description:
+    - arXiv preprint.
+  - title: <a href="https://arxiv.org/abs/2503.15154">Bang-Bang Optimal Control of
+      Vaccination in Metapopulation Epidemics with Linear Cost Structures</a>
+    institution: Lucas M. Moschen and M. Soledad Aronna
+    year: '2025'
+    description:
+    - IEEE Control Systems Letters (2025). Link to the arXiv version.
+  - title: <a href="https://arxiv.org/abs/2503.15125">A Spectral Approach to Optimal
+      Control of the Fokker-Planck Equation</a>
+    institution: Dante Kalise, Lucas M. Moschen, Grigorios A. Pavliotis, and Urbain
+      Vaes
+    year: '2025'
+    description:
+    - IEEE Control Systems Letters (2025). Link to the arXiv version.
+  - title: <a href="https://arxiv.org/abs/2402.00207">Optimal vaccination strategies
+      on networks and in metropolitan areas</a>
+    institution: M. Soledad Aronna and Lucas Machado Moschen
+    year: '2024'
+    description:
+    - Infectious Disease Modelling 9(4), 1198-1222 (2024). Link to the arXiv version.
+  - title: <a href="https://www.sciencedirect.com/science/article/pii/S2468042722000380">Estimate
+      of the rate of unreported COVID-19 cases during the first outbreak in Rio de
+      Janeiro</a>
+    institution: Maria Soledad Aronna, Roberto Guglielmi, and Lucas Machado Moschen
+    year: '2022'
+    description:
+    - Infectious Disease Modelling 7(3), 317-332 (2022).
+  - title: <a href="https://www.sciencedirect.com/science/article/pii/S1755436521000025">A
+      model for COVID-19 with isolation, quarantine and testing as control measures</a>
+    institution: M. Soledad Aronna, Roberto Guglielmi, and Lucas Machado Moschen
+    year: '2021'
+    description:
+    - Epidemics 34, 100437 (2021).
 - title: Teaching Experience
   type: time_table
   contents:
-    - title: Graduate Teaching Assistant 
-      institution: Imperial College London
-      year: 2024 - present
-      description:
-        - title: BSc level
-          contents:
-            - Analysis I (2024), Linear Algebra and Groups (2024)
-    
-    - title: Teaching Assistant 
-      institution: Fundação Getulio Vargas, School of Applied Mathematics
-      year: 2019 - 2023
-      description:
-        - title: MSc level
-          contents:
-            - Partial Differential Equations and Applications (2023), Probability (2023), Functional Analysis (2022), Statistical Inference (2022), Bayesian Statistics (2022)
-        - title: BSc level
-          contents:
-            - Partial Differential Equations (2021, 2022), Curves and Surfaces (2021, 2022), Introduction to Numerical Analysis (2021), Statistical Inference (2020), Ordinary Differential Equations (2020), Linear Algebra (2019)
-
-    - title: Volunteer Algebra Teacher
-      institution: Project Elos Educação - Rio de Janeiro (Brazil)
-      year: 2019
-      description:
-        - Prepared students for high school entrance exams.
-
+  - title: Graduate Teaching Assistant / Senior GTA
+    institution: Imperial College London
+    year: 2024 - present
+    description:
+    - Linear Algebra and Groups — Fall 2024 and Winter 2026 (BSc level); Senior GTA
+      in Winter 2026.
+    - Optimisation and Decision Models — Winter 2026.
+    - Analysis I — Fall 2024 and Winter 2025 (BSc level).
+  - title: Teaching Assistant
+    institution: Fundação Getulio Vargas, School of Applied Mathematics
+    year: 2019 - 2023
+    description:
+    - title: Graduate level (Ph.D. and MSc)
+      contents:
+      - Partial Differential Equations and Applications (2023), Probability (2023),
+        Functional Analysis (2022), Statistical Inference (2022), Bayesian Statistics
+        (2022)
+    - title: BSc level
+      contents:
+      - Partial Differential Equations (2021, 2022), Curves and Surfaces (2021, 2022),
+        Introduction to Numerical Analysis (2021), Statistical Inference (2020), Ordinary
+        Differential Equations (2020), Linear Algebra (2019)
+  - title: Volunteer Algebra Teacher
+    institution: Project Elos Educação - Rio de Janeiro (Brazil)
+    year: 2019
+    description:
+    - Prepared students for high school entrance exams.
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 2023
-      items: 
-        - Best poster presentation for the work on COVID-19 mathematical modelling at the Latin American Congress on Industrial and Applied Mathematics;
-        - Best poster presentation for the work on COVID-19 mathematical modelling at the IX Congreso de Matemática Aplicada, Computacional e Industrial;
-    - year: 2022
-      items: 
-        - Scientific Initiation Award SBMAC (3rd place) for my Bachelor's Dissertation 
-    - year: 2021
-      items: 
-        - Academic Excellence with the highest final grade in the BSc course.
-    - year: 2013 - 2017
-      items: 
-        - Two gold, one silver and two bronze medals in the Brazilian Mathematical Olympiad of Public Schools;
-
+  - year: 2023
+    items:
+    - Best poster presentation for the work on COVID-19 mathematical modelling at
+      the Latin American Congress on Industrial and Applied Mathematics;
+    - Best poster presentation for the work on COVID-19 mathematical modelling at
+      the IX Congreso de Matemática Aplicada, Computacional e Industrial;
+  - year: 2022
+    items:
+    - Scientific Initiation Award SBMAC (3rd place) for my Bachelor's Dissertation
+  - year: 2021
+    items:
+    - Academic Excellence with the highest final grade in the BSc course.
+  - year: 2013 - 2017
+    items:
+    - Two gold, one silver and two bronze medals in the Brazilian Mathematical Olympiad
+      of Public Schools;
 - title: Social Engagement
   type: time_table
   contents:
-    - title: Academic & Professional Societies
-      year: 2024 - present
-      description:
-        - SBMAC Jovem Member, Brazilian Society of Computational and Applied Mathematics - Supporting content dissemination on social media.
-        - SIAM Student Chapter Member - Organizing academic events and outreach activities.
-        - Department Representative at Imperial College London.
-
-    - title: Academic Representation & Conference Organization
-      year: 2023
-      description:
-        - Member of the Local Committee for the Latin American Congress on Industrial and Applied Mathematics (LACIAM 2023).
-        - Representative of graduate students on the School of Applied Mathematics (FGV) Board.
-
-    - title: Community & Student Leadership
-      year: 2018 - 2019
-      description:
-        - Vice-President of the Student Association, School of Applied Mathematics, FGV.
-        - Volunteer at the Elos Educação project, Rio de Janeiro, Brazil (2019) - Providing educational support for students.
-
-- title: Conferences
+  - title: Academic & Professional Societies
+    year: 2024 - present
+    description:
+    - SBMAC Jovem Member, Brazilian Society of Computational and Applied Mathematics
+      - Supporting content dissemination on social media.
+    - SIAM Student Chapter Member - Organizing academic events and outreach activities.
+    - Department Representative at Imperial College London.
+  - title: Academic Representation & Conference Organization
+    year: 2023
+    description:
+    - Member of the Local Committee for the Latin American Congress on Industrial
+      and Applied Mathematics (LACIAM 2023).
+    - Representative of graduate students on the School of Applied Mathematics (FGV)
+      Board.
+  - title: Community & Student Leadership
+    year: 2018 - 2019
+    description:
+    - Vice-President of the Student Association, School of Applied Mathematics, FGV.
+    - Volunteer at the Elos Educação project, Rio de Janeiro, Brazil (2019) - Providing
+      educational support for students.
+- title: Conferences, Workshops, and Seminars
   type: time_table
   contents:
-    - title: 2025
-      description:
-        - EECI Spring School on Dissipativity in Optimal Control - Turnpikes, Predictive Control, and Uncertainty (Bures-sur-Yvette, France) - Organized by EECI.
-        - StatML Spring School on Computational Optimal Transport and Missing Values (Windsor, UK) - Organized by StatML CDT; poster presentation.
-
-    - title: 2024
-      description:
-        - Summer School on Collective Behavior and Pattern Formation (Paris, France) - Organized by CIRM, with all costs covered; poster presentation.
-        - XLIII National Congress of Applied and Computational Mathematics (Porto de Galinhas, Brazil); poster presentation.
-
-    - title: 2023      
-      description:
-        - PGMODays 2023 (Palaiseau, France) - Oral presentation "Optimal Vaccination Strategies in Metropolitan Areas", organized by Hadamard Foundation.
-        - 10th Heidelberg Laureate Forum (Heidelberg, Germany) - Participant, funded by Klaus Tschira Stiftung.
-        - 34th Brazilian Mathematics Colloquium (Rio de Janeiro, Brazil) - Poster presentation "Optimal Vaccination Strategies in Interconnected Metropolitan Areas", organized by IMPA.
-        - IX Congreso de Matemática Aplicada, Computacional e Industrial (Santa Fé, Argentina) - Poster presentation "Mathematical Modeling of COVID-19 and Analysis of Rio de Janeiro's Outbreak in 2020", organized by ASAMACI.
-        - Latin American Congress on Industrial and Applied Mathematics (Rio de Janeiro, Brazil) - Poster presentation "Mathematical Modeling of COVID-19 and Analysis of Rio de Janeiro's Outbreak in 2020", organized by FGV EMAp and SBMAC.
-
-    - title: 2022
-      description:
-        - V Mathematical Colloquium of the Southern Region (online) - Poster presentation "Parameter Estimation of a Bivariate Beta Distribution".
-
-    - title: 2021
-      description:
-        - XL National Congress of Applied and Computational Mathematics (online) - Participant, organized by SBMAC.
-        - XXXIII Brazilian Mathematics Colloquium (online) - Participant, organized by IMPA.
-
-    - title: 2020
-      description:
-        - II Fluminense Meeting of Women in Biomathematics (online) - Poster presentation "A Model for COVID-19 with Isolation, Quarantine, and Testing".
-
-    - title: 2019
-      description:
-        - XXXII Brazilian Mathematics Colloquium (Rio de Janeiro, Brazil) - Participant, organized by IMPA.
-
-    - title: 2018
-      description:
-        - III Brazilian Congress of Young Researchers in Pure and Applied Mathematics and Statistics (Curitiba, Brazil) - Participant, organized by Federal University of Paraná.
-
+  - title: 2026
+    description:
+    - <a href="https://num.math.uni-bayreuth.de/en/conferences/scindis-2026/index.php">SCINDIS
+      2026</a> (Bayreuth, Germany, 30 September-2 October) — upcoming poster presentation.
+    - <a href="https://umi.dm.unibo.it/jm-ita-bra-2026/">2nd Joint Meeting Brazil-Italy
+      in Mathematics</a> (Messina, Italy, 7 September) — oral presentation, <a href="/files/session_18_wasserstein_feedback_control.pdf">Feedback
+      Control and Local Convexification of Wasserstein Gradient Flows</a>.
+    - <a href="https://icms.ac.uk/activities/workshop/hamilton-jacobi-and-mean-field-pdes/">Numerical
+      methods for Hamilton-Jacobi and mean-field PDEs</a> (ICMS, Edinburgh, Scotland,
+      1-4 September) — participation.
+    - <a href="https://eventos.fgv.br/lawoc2026">LAWOC 2026</a> (Rio de Janeiro, Brazil,
+      30 July) — oral presentation, <a href="/files/Presentation_LAWOC2026.pdf">On
+      the Stabilisation of Interacting Particle Systems and its Connection to Energy
+      Convexification</a>.
+    - <a href="https://scicade.org/">SciCADE 2026</a> (Edinburgh, Scotland, 29 June)
+      — oral presentation in New Ideas in Molecular Dynamics, <a href="/files/Presentation_SciCADE2026.pdf">A
+      Feedback-Control Perspective on Sampling for Langevin and McKean-Vlasov Dynamics</a>.
+    - '<a href="https://coml26.utia.cas.cz/">COML 2026: NextGen Synergy: Control Theory
+      &amp; Machine Learning</a> (Prague, Czech Republic, 29 April) — oral presentation,
+      <a href="/files/Presentation_COML2026.pdf">On the Local Stabilisation of Interacting
+      Particle Systems and its Connection to Energy Convexification</a>.'
+    - '<a href="https://sites.google.com/view/laciam-2026/">LACIAM 2026</a> (Valparaíso,
+      Chile, 20 January) — oral presentation, <a href="/files/Presentation_LACIAM2026.pdf">Feedback
+      Control of Mean-Field PDEs: The McKean-Vlasov Equation</a>.'
+  - title: 2025
+    description:
+    - '<a href="https://cdc2025.ieeecss.org/">64th IEEE Conference on Decision and
+      Control</a> (Rio de Janeiro, Brazil, 10-12 December) — two oral presentations:
+      <a href="/files/Presentation_CDC2025_1.pdf">A Spectral Approach to Optimal Control
+      of the Fokker-Planck Equation</a> (10 December) and <a href="/files/Presentation_CDC2025_2.pdf">Optimal
+      Control of Vaccination in Metapopulation Epidemics</a> (12 December).'
+    - PGMODays 2025 (Palaiseau, France, 18 November) — oral presentation, <a href="/files/Presentation_PGMODays2025.pdf">Optimal
+      Control and Stabilisation of Fokker-Planck and McKean-Vlasov Equations</a>.
+    - 44th National Congress on Computational and Applied Mathematics (Rio de Janeiro,
+      Brazil, 18 September) — poster presentation, <a href="/files/CNMAC2025_Poster.pdf">Control
+      strategies for the McKean-Vlasov equation</a>.
+    - 16th Viennese Conference on Optimal Control and Dynamic Games (Vienna, Austria,
+      17 July) — oral presentation, <a href="/files/Presentation_VC2025.pdf">Feedback
+      stabilization for the McKean-Vlasov equation</a>.
+    - Mary Lister McCammon Summer Research Fellowship (London, UK, July) — seminar
+      presentation, <a href="/files/Mary_Lister_Fellowship.pdf">The Art of Controlling</a>.
+    - 'Numerical Analysis of PDEs, Optimization and UQ: A MAC-MIGS Summer School (Edinburgh,
+      Scotland, June) — poster presentation, <a href="/files/NPDE2025_Poster.pdf">Steering
+      Probability Distributions with Optimal Control</a>.'
+    - StatML Spring School on Computational Optimal Control and Missing Values (Windsor,
+      UK, April) — poster presentation, <a href="/files/StatML_Poster.pdf">Steering
+      Probability Distributions via PDE-Constrained Optimisation</a>.
+    - EECI Spring School on Dissipativity in Optimal Control - Turnpikes, Predictive
+      Control, and Uncertainty (Bures-sur-Yvette, France) - Organized by EECI.
+  - title: 2024
+    description:
+    - Summer School on Collective Behavior and Pattern Formation (Marseille, France)
+      - Organized by CIRM, with all costs covered; poster presentation.
+    - XLIII National Congress of Applied and Computational Mathematics (Porto de Galinhas,
+      Brazil); poster presentation.
+  - title: 2023
+    description:
+    - PGMODays 2023 (Palaiseau, France) - Oral presentation "Optimal Vaccination Strategies
+      in Metropolitan Areas", organized by Hadamard Foundation.
+    - 10th Heidelberg Laureate Forum (Heidelberg, Germany) - Participant, funded by
+      Klaus Tschira Stiftung.
+    - 34th Brazilian Mathematics Colloquium (Rio de Janeiro, Brazil) - Poster presentation
+      "Optimal Vaccination Strategies in Interconnected Metropolitan Areas", organized
+      by IMPA.
+    - IX Congreso de Matemática Aplicada, Computacional e Industrial (Santa Fé, Argentina)
+      - Poster presentation "Mathematical Modeling of COVID-19 and Analysis of Rio
+      de Janeiro's Outbreak in 2020", organized by ASAMACI.
+    - Latin American Congress on Industrial and Applied Mathematics (Rio de Janeiro,
+      Brazil) - Poster presentation "Mathematical Modeling of COVID-19 and Analysis
+      of Rio de Janeiro's Outbreak in 2020", organized by FGV EMAp and SBMAC.
+  - title: 2022
+    description:
+    - V Mathematical Colloquium of the Southern Region (online) - Poster presentation
+      "Parameter Estimation of a Bivariate Beta Distribution".
+  - title: 2021
+    description:
+    - XL National Congress of Applied and Computational Mathematics (online) - Participant,
+      organized by SBMAC.
+    - XXXIII Brazilian Mathematics Colloquium (online) - Participant, organized by
+      IMPA.
+  - title: 2020
+    description:
+    - II Fluminense Meeting of Women in Biomathematics (online) - Poster presentation
+      "A Model for COVID-19 with Isolation, Quarantine, and Testing".
+  - title: 2019
+    description:
+    - XXXII Brazilian Mathematics Colloquium (Rio de Janeiro, Brazil) - Participant,
+      organized by IMPA.
+  - title: 2018
+    description:
+    - III Brazilian Congress of Young Researchers in Pure and Applied Mathematics
+      and Statistics (Curitiba, Brazil) - Participant, organized by Federal University
+      of Paraná.
 - title: Relevant Knowledge
   type: nested_list
   contents:
-    - title: Programming languages
-      items: 
-        - Programming skills in Python, R, Julia, C++, Matlab and JavaScript
-    - title: Additional programming skills
-      items: 
-        - Programming tools Git, Visual Studio Code and Project Jupyter
+  - title: Programming languages
+    items:
+    - Programming skills in Python, R, Julia, C++, Matlab and JavaScript
+  - title: Additional programming skills
+    items:
+    - Programming tools Git, Visual Studio Code and Project Jupyter
