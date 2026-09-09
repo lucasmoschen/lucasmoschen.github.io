@@ -11,7 +11,7 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Curious and passionate mathematician</p> 
-    <p>Aspiring scientist</p>
+    <p>Training Scientist</p>
     <p>Science fiction fan</p>
 
 news: true  # includes a list of news items
@@ -19,39 +19,35 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a **PhD researcher in Mathematics** at Imperial College London, specializing in **Optimization**, **Control Theory**, and **Partial Differential Equations**. 
-My research focuses on **PDE-constrained optimization**, particularly developing control methods for the **McKean-Vlasov and Fokker-Planck equations** or other PDE models that arise from diffusion processes, with applications in **physics, social sciences, and biology**.
+Hi, I'm Lucas, a PhD student in Mathematics at Imperial College London, working with [Greg Pavliotis](https://www.ma.imperial.ac.uk/~pavl/) and [Dante Kalise](https://www.dkalise.net/). 
+I like problems that let me move between differential equations, probability, control, and coding to see what is going on.
 
-I am currently funded by the **Roth PhD Scholarship** under the **CNRS-Imperial Joint Program**, and have received previous academic awards, including the **PGSM Master Scholarship**, the **PICME Scholarship**, and support from the **CDMC Talent Program** during my academic journey
+These days, I spend much of my time thinking about how to change probability distributions over time. 
+In particular using feedback control. 
+This takes me through Fokker-Planck and McKean-Vlasov equations, Wasserstein gradient flows, interacting particles, and sampling. 
+There is plenty to keep me occupied between proving that a control works and making it work in a computation!
 
-My enthusiasm for mathematics initiated early on, earning my first recognition at the [Brazilian Mathematical Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/), where I was exposed to a junior scientific initiation program (PIC) focused on algebra, number theory and geometry.
+You can find the different threads of this work on my [Projects page](/projects/), and the papers on [Publications](/publications/).
 
-During my academic journey, I have had the privilege of working with all my supervisors on diverse topics in optimal control, epidemiology, PDE, and statistics, with a focus on improving methods in Applied Mathematics.
+### My story with mathematics
 
-### **Academic Background**  
+Mathematics became part of my life quite early, through the [Brazilian Mathematical Olympiad of Public Schools (OBMEP)](http://www.obmep.org.br/). 
+It brought me my first mathematical awards and introduced me to the junior scientific initiation programme, PIC. 
+Back then, the problems were about algebra, number theory, and geometry. 
+The subjects I work on have changed quite a bit since then, but that was where this story began.
 
-- **PhD in Mathematics** (Ongoing)  
-  - Scholarship from the CNRS-Imperial joint program
-  - Research on control and optimization of PDEs  
-  - Supervised by [Greg Pavliotis](https://www.ma.imperial.ac.uk/~pavl/) and [Dante Kalise](https://www.dkalise.net/) at the Department of Mathematics
-- **Master’s in Applied Mathematics** – [Sorbonne University, Laboratoire Jacques Louis Lions](https://www.ljll.math.upmc.fr/MathModel/enseignement/les_cours_fondamentaux_en.html), France  
-  - Scholarship from [Fondation Sciences Mathématiques de Paris (FSMP)](https://www.sciencesmaths-paris.fr/en/)  
-  - Research on **stochastic models for mosquito population dynamics and control**  
-  - Supervised by [Camille Coron](https://www.imo.universite-paris-saclay.fr/~camille.coron/index_english.php) and [Luis Almeida](https://www.ljll.fr/~almeida/) at AgroParisTech
-- **Master’s in Applied Mathematics** – Fundação Getulio Vargas (FGV), Brazil  
-  - Research on **optimal vaccination strategies for epidemics in metropolitan areas**
-  - Supervised by [Maria Soledad Aronna](https://sites.google.com/view/aronna/home)
-- **Bachelor's in Applied Mathematics** – Fundação Getulio Vargas (FGV), Brazil  
-  - Research on **prevalence estimation in hard-to-reach populations with imperfect diagnostic tests** 
-  - Awarded by the [Brazilian Society of Applied Mathematics (SBMAC)](https://www.sbmac.org.br/)  
-  - Participant in the project [Scientific Initiation and Master's Program (PICME)](https://picme.obmep.org.br/)
-  - Supervised by [Prof. Luiz Max Carvalho](https://github.com/maxbiostat)
+At FGV in Rio de Janeiro, I studied Applied Mathematics and worked with [Luiz Max Carvalho](https://github.com/maxbiostat) on statistical inference: how to estimate disease prevalence when a sampling method is not straightforward and the diagnostic tests are imperfect. 
+For my master's, I worked with [Maria Soledad Aronna](https://sites.google.com/view/aronna/home) on vaccination strategies in networks of cities. 
+Questions about who travels where, and how many vaccines are available, became questions about ODEs and optimal control.
 
-### **Research Interests**  
+My next stop was a second master's at Sorbonne University, where I worked with [Camille Coron](https://www.imo.universite-paris-saclay.fr/~camille.coron/index_english.php) and [Luis Almeida](https://www.ljll.fr/~almeida/) on stochastic models and control of mosquito populations. 
+Now I'm in London, working on the control of probability distributions more broadly. 
+Epidemics, mosquitoes, and interacting particles have given me different ways of thinking about how local behaviour adds up to a collective picture.
 
-- Optimal Control Theory
-- PDE-Constrained Optimization
-- Mathematical Modeling in Biology & Epidemiology
-- Data Science & Computational Methods
+Along the way, I've been supported by the PICME Scholarship, the CDMC Talent Program, and the PGSM Master Scholarship from [FSMP](https://www.sciencesmaths-paris.fr/en/). 
+My PhD is supported by the Roth PhD Scholarship under the CNRS–Imperial Joint Program. 
+I'm grateful for the people and programmes that have made these steps possible.
+
+For dates and the more formal version, there is my [CV](/cv/). 
 
 **For Older News**, check [here](/news).

@@ -5,3 +5,15 @@
 "Conf Link":
   url: https://www.medrxiv.org/
   color: "#00369f"
+
+"Accepted manuscript":
+  color: "#00369f"
+
+"Preprint":
+  color: "#00369f"
+
+"Published article":
+  color: "#00369f"
+
+"Dissertation":
+  color: "#00369f"
