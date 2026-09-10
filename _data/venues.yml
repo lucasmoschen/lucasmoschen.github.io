@@ -1,18 +1,7 @@
-"Journal Link":
-  url: https://www.medrxiv.org/
-  color: "#00369f"
-
 "Conf Link":
-  url: https://www.medrxiv.org/
   color: "#00369f"
 
-"Accepted manuscript":
-  color: "#00369f"
-
-"Preprint":
-  color: "#00369f"
-
-"Published article":
+"Open Access":
   color: "#00369f"
 
 "Dissertation":
