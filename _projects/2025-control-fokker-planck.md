@@ -7,7 +7,9 @@ importance: 1
 category: PhD
 ---
 
-This project develops control methods for steering probability distributions towards a desired equilibrium and accelerating their convergence. With Dante Kalise, Grigorios A. Pavliotis, and Urbain Vaes, I study Fokker–Planck and McKean–Vlasov equations through spectral methods, optimal control, and feedback stabilisation. The work connects control of the dynamics with the geometry and local convexity of the underlying free energy.
+I study how feedback can steer an evolving probability distribution toward a chosen equilibrium, including when its natural dynamics converge slowly. In joint work, we developed a spectral method that targets slow modes of the Fokker–Planck equation. We then designed feedback for nonlinear McKean–Vlasov dynamics and proved local exponential stabilisation at a prescribed rate. Our later work explains this effect through the geometry of the free energy: the feedback makes it locally convex near the target in Wasserstein space.
+
+I am now studying how to implement these controls with particles and whether faster convergence outweighs the computational cost of applying them.
 
 Related papers:
 

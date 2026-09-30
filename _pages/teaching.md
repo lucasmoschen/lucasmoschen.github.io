@@ -2,15 +2,17 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: The courses I have given as a teaching assistant.
+description: Teaching assistant roles at Imperial College London and FGV EMAp.
 nav: true
 nav_order: 3
 ---
 
 ### 🔹 Teaching Assistant at **Imperial College London**
 
+- **PDEs in Action** (Autumn 2026, Department of Mathematics) — **Senior GTA in Autumn 2026**
+- **Mathematical Foundations** (Autumn 2026, Imperial College Business School)
 - **Linear Algebra and Groups** (Fall 2024, Winter 2026, BSc Level) — **Senior GTA in Winter 2026**
-- **Optimisation and Decision Models** (Winter 2026)
+- **Optimisation and Decision Models** (Winter 2026, Imperial College Business School)
 - **Analysis I** (Fall 2024, Winter 2025, BSc Level)
 
 ### 🔹 Teaching Assistant at **FGV/EMAp**
