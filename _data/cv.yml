@@ -138,6 +138,12 @@
     year: '2026'
     description:
     - arXiv preprint.
+  - title: <a href="https://arxiv.org/abs/2609.11422">Control Strategies for Multi-Species
+      Wasserstein Gradient Flows</a>
+    institution: Dante Kalise, Lucas M. Moschen, and Grigorios A. Pavliotis
+    year: '2026'
+    description:
+    - arXiv preprint.
   - title: <a href="https://arxiv.org/abs/2503.15154">Bang-Bang Optimal Control of
       Vaccination in Metapopulation Epidemics with Linear Cost Structures</a>
     institution: Lucas M. Moschen and M. Soledad Aronna
@@ -200,9 +206,35 @@
     year: 2019
     description:
     - Prepared students for high school entrance exams.
+- title: Scholarships and Funding
+  type: time_table
+  contents:
+  - year: 2024 - 2028
+    items:
+    - <a href="https://www.imperial.ac.uk/mathematics/postgraduate/doctoral-programme/prospective-students/phd-funding-opportunities/">Roth
+      PhD Scholarship</a>, Department of Mathematics, Imperial College London.
+    - Travel funding from the <a href="https://www.imperial.ac.uk/abraham-de-moivre/">CNRS-Imperial
+      Abraham de Moivre International Research Laboratory</a>.
+  - year: 2023 - 2024
+    items:
+    - <a href="https://www.sciencesmaths-paris.fr/en/pgsm-master">PGSM Master Scholarship</a>,
+      Fondation Sciences Mathématiques de Paris (FSMP), for MSc study at Sorbonne
+      University.
+  - year: 2019 - 2020
+    items:
+    - <a href="https://picme.obmep.org.br/">PICME Scientific Initiation Scholarship</a>,
+      coordinated by IMPA and funded by CNPq.
+  - year: 2018 - 2021
+    items:
+    - <a href="https://cdmc.fgv.br/selecao-de-talentos">FGV CDMC Seleção de Talentos</a>
+      undergraduate scholarship, Fundação Getulio Vargas.
 - title: Honors and Awards
   type: time_table
   contents:
+  - year: 2026
+    items:
+    - Second place in the poster competition for the QRT PhD Prize Competition Award
+      at the Annual Abraham de Moivre CNRS-Imperial Event.
   - year: 2023
     items:
     - Best poster presentation for the work on COVID-19 mathematical modelling at
@@ -248,17 +280,21 @@
   - title: 2026
     description:
     - <a href="https://num.math.uni-bayreuth.de/en/conferences/scindis-2026/index.php">SCINDIS
-      2026</a> (Bayreuth, Germany, 30 September-2 October) — upcoming poster presentation.
-    - <a href="https://umi.dm.unibo.it/jm-ita-bra-2026/">2nd Joint Meeting Brazil-Italy
-      in Mathematics</a> (Messina, Italy, 7 September) — oral presentation, <a href="/files/session_18_wasserstein_feedback_control.pdf">Feedback
-      Control and Local Convexification of Wasserstein Gradient Flows</a>.
+      2026</a> (Bayreuth, Germany, 30 September-2 October) — poster presentation;
+      €500 in financial support from the conference organisers.
+    - '<a href="https://umi.dm.unibo.it/jm-ita-bra-2026/">2nd Joint Meeting Brazil-Italy
+      in Mathematics</a> (Messina, Italy, 7 and 10 September) — two oral presentations:
+      <a href="/files/session_18_wasserstein_feedback_control.pdf">Feedback Control
+      and Local Convexification of Wasserstein Gradient Flows</a> and <a href="/files/session_27_feedback_sampling.pdf">Feedback
+      Control for Sampling</a>.'
     - <a href="https://icms.ac.uk/activities/workshop/hamilton-jacobi-and-mean-field-pdes/">Numerical
       methods for Hamilton-Jacobi and mean-field PDEs</a> (ICMS, Edinburgh, Scotland,
-      1-4 September) — participation.
+      1-4 September) — participation; accommodation and travel funded by the organisers.
     - <a href="https://eventos.fgv.br/lawoc2026">LAWOC 2026</a> (Rio de Janeiro, Brazil,
       30 July) — oral presentation, <a href="/files/Presentation_LAWOC2026.pdf">On
       the Stabilisation of Interacting Particle Systems and its Connection to Energy
-      Convexification</a>.
+      Convexification</a>; conference funding awarded by the Imperial College Trust
+      and additional financial support from SBMAC.
     - <a href="https://scicade.org/">SciCADE 2026</a> (Edinburgh, Scotland, 29 June)
       — oral presentation in New Ideas in Molecular Dynamics, <a href="/files/Presentation_SciCADE2026.pdf">A
       Feedback-Control Perspective on Sampling for Langevin and McKean-Vlasov Dynamics</a>.
@@ -268,7 +304,7 @@
       Particle Systems and its Connection to Energy Convexification</a>.'
     - '<a href="https://sites.google.com/view/laciam-2026/">LACIAM 2026</a> (Valparaíso,
       Chile, 20 January) — oral presentation, <a href="/files/Presentation_LACIAM2026.pdf">Feedback
-      Control of Mean-Field PDEs: The McKean-Vlasov Equation</a>.'
+      Control of Mean-Field PDEs: The McKean-Vlasov Equation</a>; accommodation covered.'
   - title: 2025
     description:
     - '<a href="https://cdc2025.ieeecss.org/">64th IEEE Conference on Decision and
@@ -288,7 +324,8 @@
       presentation, <a href="/files/Mary_Lister_Fellowship.pdf">The Art of Controlling</a>.
     - 'Numerical Analysis of PDEs, Optimization and UQ: A MAC-MIGS Summer School (Edinburgh,
       Scotland, June) — poster presentation, <a href="/files/NPDE2025_Poster.pdf">Steering
-      Probability Distributions with Optimal Control</a>.'
+      Probability Distributions with Optimal Control</a>; partial financial support
+      from the organisers.'
     - StatML Spring School on Computational Optimal Control and Missing Values (Windsor,
       UK, April) — poster presentation, <a href="/files/StatML_Poster.pdf">Steering
       Probability Distributions via PDE-Constrained Optimisation</a>.

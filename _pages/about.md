@@ -15,7 +15,7 @@ profile:
     <p>Science fiction fan</p>
 
 news: true  # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
@@ -45,7 +45,7 @@ Now I'm in London, working on the control of probability distributions more broa
 Epidemics, mosquitoes, and interacting particles have given me different ways of thinking about how local behaviour adds up to a collective picture.
 
 Along the way, I've been supported by the PICME Scholarship, the CDMC Talent Program, and the PGSM Master Scholarship from [FSMP](https://www.sciencesmaths-paris.fr/en/). 
-My PhD is supported by the Roth PhD Scholarship under the CNRS–Imperial Joint Program. 
+My PhD is supported by the Roth PhD Scholarship, with separate travel funding from the CNRS–Imperial Abraham de Moivre International Research Laboratory.
 I'm grateful for the people and programmes that have made these steps possible.
 
 For dates and the more formal version, there is my [CV](/cv/). 
