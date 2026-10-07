@@ -14,5 +14,5 @@ I am now studying how to implement these controls with particles and whether fas
 Related papers:
 
 - [A Spectral Approach to Optimal Control of the Fokker–Planck Equation](https://arxiv.org/abs/2503.15125) — IEEE Control Systems Letters, 2025.
-- [Linearization-Based Feedback Stabilization of McKean–Vlasov PDEs](https://arxiv.org/abs/2507.12411) — accepted in SIAM Journal on Control and Optimization.
+- [Linearization-Based Feedback Stabilization of McKean–Vlasov PDEs](https://arxiv.org/abs/2507.12411) — SIAM Journal on Control and Optimization 64(5), 3751–3780 (2026). The link provides the arXiv version.
 - [Feedback Control and Local Convexification of Wasserstein Gradient Flows](https://arxiv.org/abs/2603.13588) — preprint, 2026.

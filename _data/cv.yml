@@ -128,10 +128,10 @@
   - title: <a href="https://arxiv.org/abs/2507.12411">Linearization-Based Feedback
       Stabilization of McKean-Vlasov PDEs</a>
     institution: Dante Kalise, Lucas M. Moschen, and Grigorios A. Pavliotis
-    year: Accepted
+    year: '2026'
     description:
-    - Accepted for publication in SIAM Journal on Control and Optimization (SICON).
-      Preprint first posted in 2025.
+    - SIAM Journal on Control and Optimization 64(5), 3751–3780 (2026).
+      Link to the arXiv version.
   - title: <a href="https://arxiv.org/abs/2603.13588">Feedback Control and Local Convexification
       of Wasserstein Gradient Flows</a>
     institution: Dante Kalise, Lucas M. Moschen, and Grigorios A. Pavliotis
